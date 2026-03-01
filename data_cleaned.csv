@@ -1,0 +1,1388 @@
+city,district,neighborhood,room,living_room,area_mSqr,building_age,floor,list-view-price
+İzmir , Karşıyaka , Şemikler Mah.,2,1,85,4,2.0,28000.0
+İzmir , Seferihisar , Hıdırlık Mah.,2,1,85,4,2.0,26000.0
+İzmir , Bayraklı , Mansuroğlu Mah.,2,1,84,1,4.0,45000.0
+İzmir , Tire , Fatih Mah.,2,1,115,5,2.0,29000.0
+İzmir , Karşıyaka , Yalı Mah.,3,1,130,31,3.0,45000.0
+İzmir , Torbalı , Türkmenköy Mah.,2,1,85,2,4.0,19500.0
+İzmir , Çiğli , Balatçık Mah.,2,1,90,3,5.0,37000.0
+İzmir , Karşıyaka , Bostanlı Mah.,3,1,150,34,4.0,43000.0
+İzmir , Torbalı , Muratbey Mah.,3,1,145,16,5.0,18000.0
+İzmir , Menemen , 30 Ağustos Mah.,3,1,130,25,2.0,25000.0
+İzmir , Çeşme , Ovacık Mah.,1,1,45,1,0.0,25000.0
+İzmir , Bornova , Kızılay Mah.,3,1,125,16,1.0,33000.0
+İzmir , Buca , İnönü Mah.,2,1,95,6,4.0,20000.0
+İzmir , Karşıyaka , Şemikler Mah.,3,1,120,10,2.0,40000.0
+İzmir , Karabağlar , Vatan Mah.,3,1,110,34,1.0,25000.0
+İzmir , Çiğli , Egekent Mah.,3,1,125,35,5.0,25000.0
+İzmir , Torbalı , Alpkent Mah.,3,1,148,4,2.0,23500.0
+İzmir , Bayraklı , Tepekule Mah.,3,1,125,20,6.0,30000.0
+İzmir , Aliağa , Yalı Mah.,2,1,75,0,0.0,35000.0
+İzmir , Torbalı , Muratbey Mah.,2,1,105,22,3.0,28000.0
+İzmir , Çiğli , Balatçık Mah.,1,1,50,0,7.0,21900.0
+İzmir , Buca , İnkılap Mah.,2,1,85,7,3.0,24000.0
+İzmir , Buca , Adatepe Mah.,3,1,135,20,0.0,24000.0
+İzmir , Gaziemir , Irmak Mah.,3,1,128,7,3.0,47000.0
+İzmir , Menderes , Gümüldür Fevzi Çakmak Mah.,3,1,130,21,0.0,40000.0
+İzmir , Karşıyaka , Örnekköy Mah.,2,1,90,26,2.0,20000.0
+İzmir , Karşıyaka , İmbatlı Mah.,2,1,85,0,3.0,32500.0
+İzmir , Gaziemir , Atıfbey Mah.,3,1,125,11,1.0,35000.0
+İzmir , Menemen , Gazi Mustafa Kemal Mah.,1,1,45,0,1.0,14000.0
+İzmir , Çiğli , Atatürk Mah.,2,1,85,0,4.0,23000.0
+İzmir , Buca , Ufuk Mah.,2,1,80,35,0.0,15000.0
+İzmir , Bornova , Ergene Mah.,3,1,140,19,5.0,29000.0
+İzmir , Menemen , İnönü Mah.,1,1,45,0,3.0,15500.0
+İzmir , Bornova , İnönü Mah.,2,1,110,25,3.0,27000.0
+İzmir , Buca , Efeler Mah.,3,1,140,25,2.0,26000.0
+İzmir , Menemen , 9 Eylül Mah.,3,1,160,4,3.0,45000.0
+İzmir , Bayraklı , Onur Mah.,3,1,120,30,1.0,15000.0
+İzmir , Buca , Atatürk Mah.,1,1,75,4,0.0,18650.0
+İzmir , Bergama , İslamsaray Mah.,1,1,70,0,2.0,19750.0
+İzmir , Karşıyaka , Örnekköy Mah.,3,1,125,6,2.0,31500.0
+İzmir , Menemen , 85. Yıl Cumhuriyet Mah.,1,1,70,0,5.0,18000.0
+İzmir , Karşıyaka , Bahçelievler Mah.,3,1,135,25,3.0,45000.0
+İzmir , Karabağlar , Bahar Mah.,3,1,115,0,3.0,40000.0
+İzmir , Urla , M. Fevzi Çakmak Mah.,3,1,110,11,3.0,40000.0
+İzmir , Karşıyaka , Tersane Mah.,3,1,139,25,3.0,26000.0
+İzmir , Karşıyaka , Bahçelievler Mah.,3,1,135,26,5.0,38000.0
+İzmir , Foça , Mustafa Kemal Atatürk Mah.,2,1,76,8,3.0,32000.0
+İzmir , Karabağlar , Refet Bele Mah.,2,1,75,2,1.0,21000.0
+İzmir , Bayraklı , Mansuroğlu Mah.,3,1,120,0,5.0,50000.0
+İzmir , Buca , Adatepe Mah.,1,1,55,2,2.0,30000.0
+İzmir , Konak , Altıntaş Mah.,2,1,90,31,2.0,20000.0
+İzmir , Menemen , 9 Eylül Mah.,2,1,110,6,7.0,35000.0
+İzmir , Torbalı , Cumhuriyet Mah.,2,1,95,25,8.0,16500.0
+İzmir , Buca , Adatepe Mah.,1,1,55,6,0.0,22000.0
+İzmir , Torbalı , Fevzi Çakmak Mah.,1,1,60,6,0.0,18000.0
+İzmir , Balçova , Onur Mah.,2,1,95,31,0.0,33000.0
+İzmir , Bornova , İnönü Mah.,1,1,55,6,2.0,20000.0
+İzmir , Buca , Laleli Mah.,2,1,97,21,2.0,24000.0
+İzmir , Bayraklı , Çay Mah.,1,1,65,6,2.0,21500.0
+İzmir , Bornova , Erzene Mah.,3,1,115,30,2.0,25000.0
+İzmir , Buca , Yiğitler Mah.,2,1,98,26,4.0,20000.0
+İzmir , Menemen , Zafer Mah.,1,1,60,21,0.0,12500.0
+İzmir , Seferihisar , Hıdırlık Mah.,1,1,70,0,0.0,25000.0
+İzmir , Menemen , 85. Yıl Cumhuriyet Mah.,1,1,52,3,3.0,17000.0
+İzmir , Karşıyaka , Cumhuriyet Mah.,1,1,50,21,0.0,14000.0
+İzmir , Menemen , İnönü Mah.,2,1,80,6,2.0,24000.0
+İzmir , Karşıyaka , Yalı Mah.,3,1,105,26,0.0,30000.0
+İzmir , Bayraklı , Adalet Mah.,2,1,80,3,0.0,40000.0
+İzmir , Buca , Yaylacık Mah.,2,1,75,5,2.0,28000.0
+İzmir , Balçova , Onur Mah.,3,1,148,31,2.0,38500.0
+İzmir , Ödemiş , Cumhuriyet Mah.,2,1,120,16,2.0,16500.0
+İzmir , Balçova , Onur Mah.,2,1,100,35,2.0,27000.0
+İzmir , Foça , Fevzipaşa Mah.,1,1,50,26,0.0,28500.0
+İzmir , Karşıyaka , Şemikler Mah.,3,1,115,6,4.0,46000.0
+İzmir , Karşıyaka , Örnekköy Mah.,3,1,110,2,4.0,41000.0
+İzmir , Kemalpaşa , Çambel Mah.,3,1,135,2,1.0,22500.0
+İzmir , Buca , Yaylacık Mah.,1,1,55,0,3.0,26000.0
+İzmir , Buca , Kuruçeşme Mah.,1,1,45,0,3.0,21000.0
+İzmir , Karşıyaka , Dedebaşı Mah.,3,1,130,15,5.0,35000.0
+İzmir , Bayraklı , Soğukkuyu Mah.,3,1,140,23,3.0,32000.0
+İzmir , Çiğli , Ataşehir Mah.,2,1,75,0,3.0,40000.0
+İzmir , Torbalı , Ayrancılar Mah.,2,1,90,20,1.0,19500.0
+İzmir , Karabağlar , Sevgi Mah.,3,1,110,6,3.0,32500.0
+İzmir , Çiğli , Balatçık Mah.,1,1,55,2,4.0,26000.0
+İzmir , Güzelbahçe , Yelki Mah.,2,1,80,5,0.0,41000.0
+İzmir , Seferihisar , Bengiler Mah.,2,1,100,6,3.0,29000.0
+İzmir , Çiğli , Balatçık Mah.,1,1,75,6,7.0,30000.0
+İzmir , Karabağlar , Arap Hasan Mah.,2,1,85,8,3.0,40000.0
+İzmir , Konak , Çankaya Mah.,3,1,120,22,4.0,27000.0
+İzmir , Gaziemir , Binbaşı Reşatbey Mah.,2,1,128,5,2.0,40000.0
+İzmir , Gaziemir , Hürriyet Mah.,2,1,130,1,1.0,40000.0
+İzmir , Bayraklı , Çay Mah.,2,1,85,16,3.0,21000.0
+İzmir , Karşıyaka , Şemikler Mah.,2,1,84,13,3.0,30000.0
+İzmir , Menemen , 30 Ağustos Mah.,3,1,125,22,2.0,24000.0
+İzmir , Bornova , Kızılay Mah.,2,1,75,8,3.0,23000.0
+İzmir , Karşıyaka , Bostanlı Mah.,2,1,90,8,2.0,45000.0
+İzmir , Karşıyaka , Bahçelievler Mah.,3,1,150,18,5.0,40000.0
+İzmir , Karabağlar , Üçkuyular Mah.,3,1,140,35,4.0,38000.0
+İzmir , Karabağlar , Bozyaka Mah.,2,1,90,4,3.0,23500.0
+İzmir , Bayraklı , Alpaslan Mah.,1,1,70,6,5.0,20000.0
+İzmir , Seferihisar , Mersin Alanı Mah.,4,1,200,25,3.0,43000.0
+İzmir , Konak , Altıntaş Mah.,2,1,90,45,4.0,30000.0
+İzmir , Kemalpaşa , Sekiz Eylül Mah.,2,1,115,6,1.0,35000.0
+İzmir , Karabağlar , Tahsin Yazıcı Mah.,2,1,100,26,2.0,19500.0
+İzmir , Karşıyaka , Dedebaşı Mah.,1,1,48,0,0.0,23000.0
+İzmir , Bornova , İnönü Mah.,3,1,140,16,2.0,31000.0
+İzmir , Karşıyaka , Bostanlı Mah.,1,1,60,6,5.0,38500.0
+İzmir , Buca , İnkılap Mah.,3,1,135,11,3.0,35000.0
+İzmir , Buca , İnkılap Mah.,3,1,130,10,2.0,35000.0
+İzmir , Karabağlar , Üçkuyular Mah.,2,1,120,31,5.0,34000.0
+İzmir , Buca , Adatepe Mah.,2,1,110,23,2.0,16000.0
+İzmir , Buca , Adatepe Mah.,1,1,45,0,2.0,25000.0
+İzmir , Aliağa , Şakran Sayfiye Mah.,3,1,130,6,3.0,23000.0
+İzmir , Buca , İnkılap Mah.,3,1,135,27,2.0,33500.0
+İzmir , Bornova , Kazımdirik Mah.,2,1,102,36,2.0,34000.0
+İzmir , Balçova , Onur Mah.,3,1,130,0,3.0,55000.0
+İzmir , Torbalı , Yemişlik Mah.,3,1,170,4,5.0,35000.0
+İzmir , Seferihisar , Sığacık Mah.,3,1,130,6,2.0,42500.0
+İzmir , Bayraklı , Gümüşpala Mah.,2,1,115,30,0.0,23000.0
+İzmir , Konak , Kılıç Reis Mah.,2,1,100,31,3.0,25000.0
+İzmir , Karşıyaka , Yalı Mah.,3,1,120,15,4.0,48000.0
+İzmir , Karşıyaka , Örnekköy Mah.,1,1,86,8,3.0,33000.0
+İzmir , Karabağlar , Vatan Mah.,2,1,85,36,5.0,22000.0
+İzmir , Seferihisar , Çolak İbrahim Bey Mah.,1,1,60,5,0.0,26000.0
+İzmir , Karşıyaka , Bahçelievler Mah.,2,1,100,31,4.0,31000.0
+İzmir , Menderes , Gümüldür Cumhuriyet Mah.,3,1,110,26,3.0,23000.0
+İzmir , Konak , Murat Reis Mah.,3,1,120,15,4.0,37000.0
+İzmir , Karabağlar , Üçkuyular Mah.,3,1,115,35,2.0,22000.0
+İzmir , Karabağlar , Tahsin Yazıcı Mah.,3,1,138,26,3.0,30000.0
+İzmir , Bornova , Atatürk Mah.,3,1,135,18,2.0,30000.0
+İzmir , Konak , Kocatepe Mah.,1,1,55,4,1.0,28000.0
+İzmir , Bayraklı , Osmangazi Mah.,2,1,75,9,1.0,19000.0
+İzmir , Karşıyaka , Nergiz Mah.,2,1,130,31,5.0,42000.0
+İzmir , Menderes , Cüneytbey Mah.,2,1,100,10,5.0,30000.0
+İzmir , Karşıyaka , Donanmacı Mah.,3,1,120,22,2.0,35000.0
+İzmir , Buca , Yenigün Mah.,3,1,135,22,0.0,30000.0
+İzmir , Menemen , Ahıhıdır Mah.,2,1,80,0,5.0,21500.0
+İzmir , Bayraklı , Manavkuyu Mah.,3,1,135,31,1.0,49000.0
+İzmir , Balçova , Onur Mah.,2,1,90,20,3.0,25000.0
+İzmir , Buca , Atatürk Mah.,1,1,75,4,0.0,20250.0
+İzmir , Karabağlar , Kazım Karabekir Mah.,3,1,125,6,4.0,29500.0
+İzmir , Bergama , Fatih Mah.,3,1,139,7,1.0,31000.0
+İzmir , Balçova , Çetin Emeç Mah.,2,1,75,5,2.0,40000.0
+İzmir , Konak , Mimar Sinan Mah.,3,1,160,25,7.0,50000.0
+İzmir , Bornova , Erzene Mah.,1,1,60,5,4.0,27500.0
+İzmir , Karabağlar , Peker Mah.,1,1,65,20,5.0,15000.0
+İzmir , Narlıdere , Çamtepe Mah.,2,1,75,30,4.0,31000.0
+İzmir , Menemen , Kemal Atatürk Mah.,1,1,60,3,2.0,16000.0
+İzmir , Karabağlar , Basın Sitesi Mah.,3,1,130,26,3.0,27000.0
+İzmir , Karabağlar , Doğanay Mah.,3,1,120,20,1.0,20000.0
+İzmir , Urla , Hacı İsa Mah.,2,1,115,16,2.0,35000.0
+İzmir , Bayraklı , Mansuroğlu Mah.,2,1,67,2,6.0,48000.0
+İzmir , Gaziemir , Atıfbey Mah.,3,1,125,25,5.0,30000.0
+İzmir , Bornova , Yeşilova Mah.,1,1,100,30,5.0,20000.0
+İzmir , Bornova , Mevlana Mah.,1,1,65,6,3.0,23000.0
+İzmir , Aliağa , Çakmaklı Mah.,2,1,100,31,0.0,26000.0
+İzmir , Bayraklı , Onur Mah.,1,1,50,6,1.0,25000.0
+İzmir , Menemen , İstiklal Mah.,3,1,125,21,2.0,29000.0
+İzmir , Konak , Ulubatlı Mah.,2,1,100,26,1.0,18000.0
+İzmir , Karabağlar , Bahar Mah.,2,1,120,17,2.0,24000.0
+İzmir , Karşıyaka , Goncalar Mah.,2,1,105,1,0.0,34500.0
+İzmir , Karşıyaka , Bahçelievler Mah.,1,1,60,6,7.0,35000.0
+İzmir , Bayraklı , Osmangazi Mah.,3,1,140,36,3.0,33000.0
+İzmir , Menemen , İstiklal Mah.,3,1,135,26,6.0,20000.0
+İzmir , Karşıyaka , Yalı Mah.,3,1,125,34,6.0,32000.0
+İzmir , Buca , Atatürk Mah.,1,1,50,9,3.0,20000.0
+İzmir , Bornova , Evka 4 Mah.,1,1,60,25,4.0,17000.0
+İzmir , Karşıyaka , Şemikler Mah.,2,1,85,11,4.0,35000.0
+İzmir , Çiğli , Ataşehir Mah.,3,1,167,21,0.0,33000.0
+İzmir , Torbalı , Alpkent Mah.,1,1,50,1,1.0,19500.0
+İzmir , Seferihisar , Çolak İbrahim Bey Mah.,2,1,100,0,0.0,25000.0
+İzmir , Çiğli , Yeni Mahalle Mah.,2,1,72,6,2.0,24000.0
+İzmir , Buca , Yeşilbağlar Mah.,2,1,90,2,0.0,20900.0
+İzmir , Buca , Atatürk Mah.,1,1,55,3,3.0,19000.0
+İzmir , Karabağlar , Gülyaka Mah.,2,1,100,0,0.0,28000.0
+İzmir , Karabağlar , Bahçelievler Mah.,3,1,130,35,7.0,36000.0
+İzmir , Karşıyaka , Bahriye Üçok Mah.,3,1,130,29,5.0,31000.0
+İzmir , Konak , Akın Simav Mah.,3,1,125,16,4.0,31000.0
+İzmir , Balçova , Eğitim Mah.,1,1,90,35,2.0,30000.0
+İzmir , Menderes , Barbaros Mah.,3,1,120,11,3.0,21000.0
+İzmir , Çiğli , Atatürk Mah.,1,1,55,11,6.0,23000.0
+İzmir , Menderes , Barbaros Mah.,2,1,90,15,2.0,24000.0
+İzmir , Buca , Atatürk Mah.,1,1,60,1,4.0,33000.0
+İzmir , Güzelbahçe , Yelki Mah.,3,1,120,16,1.0,45000.0
+İzmir , Çiğli , İnönü Mah.,3,1,130,15,4.0,28000.0
+İzmir , Karşıyaka , Demirköprü Mah.,1,1,50,6,3.0,37000.0
+İzmir , Menemen , Gazi Mustafa Kemal Mah.,2,1,70,5,5.0,17000.0
+İzmir , Menemen , Esatpaşa Mah.,3,1,130,25,3.0,23000.0
+İzmir , Karşıyaka , Zübeyde Hanım Mah.,1,1,50,6,0.0,19500.0
+İzmir , Bayraklı , Muhittin Erener Mah.,2,1,95,4,3.0,15000.0
+İzmir , Karşıyaka , İnönü Mah.,2,1,88,11,3.0,43000.0
+İzmir , Ödemiş , İnönü Mah.,2,1,85,30,0.0,16000.0
+İzmir , Urla , Altıntaş Mah.,1,1,40,7,0.0,30000.0
+İzmir , Konak , Zafertepe Mah.,3,1,115,13,2.0,30000.0
+İzmir , Menemen , 30 Ağustos Mah.,3,1,130,21,7.0,25000.0
+İzmir , Buca , Yaylacık Mah.,1,1,55,4,0.0,25000.0
+İzmir , Karabağlar , Doğanay Mah.,3,1,130,26,2.0,26000.0
+İzmir , Çiğli , Esentepe Mah.,2,1,100,3,6.0,27000.0
+İzmir , Buca , Hürriyet Mah.,3,1,120,13,3.0,29000.0
+İzmir , Aliağa , Şakran Sayfiye Mah.,2,1,90,2,0.0,32000.0
+İzmir , Bayraklı , Bayraklı Mah.,3,1,140,35,5.0,28000.0
+İzmir , Buca , Efeler Mah.,2,1,90,35,3.0,35000.0
+İzmir , Menderes , Gümüldür Fevzi Çakmak Mah.,2,1,90,6,1.0,25000.0
+İzmir , Foça , Kazım Dirik Mah.,2,1,70,0,5.0,20000.0
+İzmir , Konak , Kılıç Reis Mah.,2,1,100,35,3.0,25000.0
+İzmir , Karabağlar , Üçkuyular Mah.,3,1,135,30,7.0,35000.0
+İzmir , Bornova , Kazımdirik Mah.,3,1,120,33,7.0,30000.0
+İzmir , Menemen , 9 Eylül Mah.,2,1,80,7,4.0,23000.0
+İzmir , Karabağlar , Sarıyer Mah.,3,1,115,26,0.0,15000.0
+İzmir , Menderes , Ata Mah.,2,1,100,31,1.0,24000.0
+İzmir , Karabağlar , Esenyalı Mah.,3,1,120,31,4.0,43000.0
+İzmir , Karşıyaka , Şemikler Mah.,2,1,110,12,6.0,26000.0
+İzmir , Buca , Efeler Mah.,2,1,105,30,3.0,23500.0
+İzmir , Karşıyaka , Bostanlı Mah.,2,1,77,0,2.0,50000.0
+İzmir , Balçova , Onur Mah.,1,1,65,31,0.0,30000.0
+İzmir , Konak , Alsancak Mah.,3,1,145,35,4.0,30000.0
+İzmir , Karşıyaka , Bahariye Mah.,3,1,140,25,5.0,25000.0
+İzmir , Çiğli , Evka - 2 Mah.,2,1,86,26,5.0,25000.0
+İzmir , Karşıyaka , Bahçelievler Mah.,3,1,120,30,2.0,35000.0
+İzmir , Menderes , Gümüldür Cumhuriyet Mah.,2,1,80,21,3.0,27000.0
+İzmir , Gaziemir , Gazi Mah.,3,1,100,26,3.0,35000.0
+İzmir , Karşıyaka , Bostanlı Mah.,1,1,60,3,1.0,38000.0
+Manisa , Turgutlu , Yılmazlar Mah.,4,1,180,35,3.0,18900.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,85,8,3.0,18000.0
+Manisa , Şehzadeler , Utku Mah.,3,1,120,28,1.0,30000.0
+Manisa , Şehzadeler , Yarhasanlar Mah.,3,1,135,5,2.0,29000.0
+Manisa , Salihli , Kurtuluş Mah.,3,1,140,30,2.0,20000.0
+Manisa , Salihli , Cumhuriyet Mah.,3,1,140,20,4.0,21000.0
+Manisa , Yunusemre , Muradiye Mah.,1,1,45,1,2.0,15000.0
+Manisa , Salihli , Cumhuriyet Mah.,2,1,100,25,3.0,16000.0
+Manisa , Yunusemre , Muradiye Mah.,1,1,49,0,2.0,18000.0
+Manisa , Turgutlu , Ergenekon Mah.,2,1,170,7,3.0,40000.0
+Manisa , Yunusemre , Mutlu Mah.,2,1,105,11,1.0,21000.0
+Manisa , Salihli , Namık Kemal Mah.,1,1,50,7,2.0,20000.0
+Manisa , Akhisar , Seyit Ahmet Mah.,2,1,110,0,2.0,18000.0
+Manisa , Yunusemre , 75. Yıl Mah.,3,1,130,25,2.0,32000.0
+Manisa , Salihli , Cumhuriyet Mah.,2,1,100,25,4.0,12000.0
+Manisa , Akhisar , Reşat Bey Mah.,2,1,80,0,2.0,18000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,85,8,2.0,18500.0
+Manisa , Yunusemre , Muradiye Mah.,3,1,110,14,1.0,20000.0
+Manisa , Yunusemre , Topçuasım Mah.,2,1,85,6,6.0,23000.0
+Manisa , Şehzadeler , Kuşlubahçe Mah.,3,1,125,11,1.0,25000.0
+Manisa , Yunusemre , Akgedik Mah.,3,1,118,0,1.0,16000.0
+Manisa , Akhisar , Hacı İshak Mah.,3,1,140,6,2.0,24000.0
+Manisa , Yunusemre , Muradiye Mah.,4,1,160,4,5.0,24000.0
+Manisa , Şehzadeler , Peker Mah.,3,1,125,22,3.0,28000.0
+Manisa , Yunusemre , Muradiye Mah.,1,1,60,0,0.0,27500.0
+Manisa , Turgutlu , Altay Mah.,3,1,125,21,3.0,20000.0
+Manisa , Turgutlu , Ergenekon Mah.,3,1,145,8,5.0,35000.0
+Manisa , Saruhanlı , Cengiz Topel Mah.,1,1,60,1,3.0,13500.0
+Manisa , Salihli , Namık Kemal Mah.,1,1,50,7,3.0,20000.0
+Manisa , Yunusemre , Uncubozköy Mah.,2,1,67,3,7.0,47000.0
+Manisa , Yunusemre , Tevfikiye Mah.,3,1,125,25,2.0,25000.0
+Manisa , Turgutlu , Ergenekon Mah.,3,1,135,11,3.0,25000.0
+Manisa , Akhisar , Hürriyet Mah.,3,1,145,11,4.0,24000.0
+Manisa , Yunusemre , Muradiye Mah.,1,1,60,0,4.0,20000.0
+Manisa , Yunusemre , Atatürk Mah.,2,1,72,5,3.0,16000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,80,0,1.0,19000.0
+Manisa , Turgutlu , Yedi Eylül Mah.,2,1,95,25,5.0,15000.0
+Manisa , Yunusemre , Uncubozköy Mah.,1,1,145,16,5.0,25000.0
+Manisa , Yunusemre , Muradiye Mah.,1,1,50,8,4.0,16500.0
+Manisa , Şehzadeler , Dinçer Mah.,3,1,125,26,3.0,27000.0
+Manisa , Şehzadeler , Sakarya Mah.,3,1,165,26,1.0,25000.0
+Manisa , Yunusemre , Karaali Mah.,2,1,85,6,0.0,26000.0
+Manisa , Turgutlu , Subaşı Mah.,3,1,125,16,3.0,20000.0
+Manisa , Turgutlu , Yılmazlar Mah.,4,1,180,32,4.0,16900.0
+Manisa , Salihli , Yörük Mah.,3,1,145,18,5.0,28000.0
+Manisa , Akhisar , Efendi Mah.,1,1,55,0,3.0,15000.0
+Manisa , Saruhanlı , İstasyon Mah.,2,1,80,1,3.0,15000.0
+Manisa , Yunusemre , Muradiye Mah.,1,1,65,6,1.0,22000.0
+Manisa , Turgutlu , Yıldırım Mah.,3,1,140,40,2.0,17000.0
+Manisa , Saruhanlı , İstasyon Mah.,3,1,135,0,4.0,25000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,70,0,4.0,20000.0
+Manisa , Turgutlu , Ergenekon Mah.,2,1,110,9,1.0,30000.0
+Manisa , Akhisar , Hacı İshak Mah.,2,1,110,11,2.0,16000.0
+Manisa , Akhisar , Hürriyet Mah.,3,1,105,20,2.0,19000.0
+Manisa , Turgutlu , Ergenekon Mah.,3,1,165,6,5.0,25000.0
+Manisa , Turgutlu , Yeni Mah.,1,1,45,5,3.0,21000.0
+Manisa , Yunusemre , Muradiye Mah.,1,1,60,0,3.0,23000.0
+Manisa , Yunusemre , Kuyualan Mah.,2,1,110,30,2.0,21000.0
+Manisa , Şehzadeler , Kuşlubahçe Mah.,3,1,160,30,3.0,26500.0
+Manisa , Şehzadeler , Yarhasanlar Mah.,2,1,65,0,5.0,24000.0
+Manisa , Yunusemre , Yeni Mahalle Mah.,3,1,120,30,5.0,18000.0
+Manisa , Salihli , Namık Kemal Mah.,2,1,90,0,2.0,25000.0
+Manisa , Akhisar , Cumhuriyet Mah.,2,1,110,0,2.0,18000.0
+Manisa , Akhisar , Atatürk Mah.,2,1,100,30,2.0,12500.0
+Manisa , Turgutlu , Yılmazlar Mah.,3,1,160,6,1.0,26500.0
+Manisa , Yunusemre , Yeni Mahalle Mah.,2,1,90,6,3.0,17500.0
+Manisa , Şehzadeler , Dere Mah.,2,1,110,20,3.0,22000.0
+Manisa , Şehzadeler , Peker Mah.,3,1,120,23,4.0,27000.0
+Manisa , Yunusemre , Muradiye Mah.,1,1,65,5,3.0,17000.0
+Manisa , Yunusemre , Muradiye Mah.,1,1,75,5,2.0,17500.0
+Manisa , Saruhanlı , Cengiz Topel Mah.,1,1,68,1,2.0,18000.0
+Manisa , Yunusemre , Uncubozköy Mah.,1,1,44,4,2.0,36000.0
+Manisa , Yunusemre , Muradiye Mah.,1,1,55,0,3.0,17000.0
+Manisa , Şehzadeler , Akıncılar Mah.,1,1,70,26,3.0,14000.0
+Manisa , Turgutlu , Acarlar Mah.,1,1,80,0,2.0,25000.0
+Manisa , Şehzadeler , Sakarya Mah.,2,1,95,5,2.0,23000.0
+Manisa , Turgutlu , Turgutlar Mah.,2,1,95,25,2.0,15000.0
+Manisa , Şehzadeler , Çarşı Mah.,3,1,145,11,1.0,35000.0
+Manisa , Yunusemre , Akgedik Mah.,2,1,97,0,3.0,18000.0
+Manisa , Yunusemre , 75. Yıl Mah.,3,1,120,21,3.0,27000.0
+Manisa , Yunusemre , Muradiye Mah.,1,1,65,1,3.0,18500.0
+Manisa , Akhisar , Hürriyet Mah.,3,1,170,15,3.0,26000.0
+Manisa , Şehzadeler , Nişancıpaşa Mah.,3,1,125,21,6.0,23000.0
+Manisa , Şehzadeler , 2. Anafartalar Mah.,3,1,125,6,7.0,35000.0
+Manisa , Şehzadeler , Yarhasanlar Mah.,1,1,60,21,1.0,18000.0
+Manisa , Salihli , Keli Mah.,3,1,120,15,3.0,15000.0
+Manisa , Akhisar , Hürriyet Mah.,2,1,115,1,1.0,23000.0
+Manisa , Akhisar , Reşat Bey Mah.,2,1,95,0,1.0,20000.0
+Manisa , Akhisar , Efendi Mah.,2,1,99,0,1.0,19000.0
+Manisa , Salihli , Eski Cami Mah.,2,1,95,5,3.0,21000.0
+Manisa , Salihli , Cumhuriyet Mah.,3,1,120,16,3.0,20000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,90,0,4.0,20000.0
+Manisa , Akhisar , Reşat Bey Mah.,2,1,100,6,4.0,19000.0
+Manisa , Yunusemre , Ayni Ali Mah.,3,1,95,30,0.0,20000.0
+Manisa , Turgutlu , Ergenekon Mah.,1,1,65,1,1.0,15000.0
+Manisa , Salihli , Kurtuluş Mah.,1,1,100,11,4.0,18000.0
+Manisa , Akhisar , Atatürk Mah.,4,1,175,11,2.0,25000.0
+Manisa , Yunusemre , Akmescit Mah.,3,1,200,26,0.0,11000.0
+Manisa , Akhisar , Medar Mah.,3,1,115,1,3.0,1515.0
+Manisa , Salihli , Şehitler Mah.,3,1,135,18,1.0,18000.0
+Manisa , Akhisar , Hürriyet Mah.,2,1,110,0,1.0,25000.0
+Manisa , Yunusemre , Muradiye Mah.,4,1,155,1,4.0,25000.0
+Manisa , Turgutlu , Cumhuriyet Mah.,2,1,90,0,4.0,21000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,80,5,1.0,19000.0
+Manisa , Alaşehir , İstasyon Mah.,2,1,115,6,3.0,15000.0
+Manisa , Akhisar , İnönü Mah.,3,1,140,12,1.0,19000.0
+Manisa , Turgutlu , Albayrak Mah.,1,1,52,4,2.0,15000.0
+Manisa , Turgutlu , Yiğitler Mah.,3,1,130,11,3.0,20000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,85,0,2.0,20000.0
+Manisa , Turgutlu , Ergenekon Mah.,3,1,145,6,1.0,24999.0
+Manisa , Akhisar , Hürriyet Mah.,3,1,150,6,2.0,2275.0
+Manisa , Şehzadeler , Yarhasanlar Mah.,3,1,130,21,5.0,27000.0
+Manisa , Akhisar , Hürriyet Mah.,3,1,175,21,0.0,18000.0
+Manisa , Yunusemre , Muradiye Mah.,1,1,65,5,3.0,19000.0
+Manisa , Yunusemre , Güzelyurt Mah.,1,1,75,4,4.0,27000.0
+Manisa , Akhisar , Atatürk Mah.,3,1,140,0,3.0,32000.0
+Manisa , Salihli , Gaziler Mah.,2,1,80,4,1.0,23000.0
+Manisa , Salihli , Keli Mah.,1,1,55,0,5.0,17000.0
+Manisa , Turgutlu , Turan Mah.,3,1,120,16,1.0,15000.0
+Manisa , Akhisar , Hürriyet Mah.,3,1,125,6,3.0,25000.0
+Manisa , Akhisar , Reşat Bey Mah.,3,1,140,3,3.0,25000.0
+Manisa , Akhisar , Hürriyet Mah.,3,1,132,23,3.0,20000.0
+Manisa , Şehzadeler , Şehitler Mah.,3,1,130,15,3.0,25000.0
+Manisa , Yunusemre , Muradiye Mah.,3,1,160,4,4.0,21500.0
+Manisa , Yunusemre , Muradiye Mah.,1,1,60,0,4.0,14000.0
+Manisa , Akhisar , Ulu Camii Mah.,3,1,140,16,3.0,15000.0
+Manisa , Yunusemre , Cumhuriyet Mah.,3,1,120,13,3.0,32500.0
+Manisa , Akhisar , Cumhuriyet Mah.,3,1,127,5,2.0,17500.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,100,5,3.0,20000.0
+Manisa , Turgutlu , Bozkurt Mah.,2,1,105,5,2.0,16000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,85,5,2.0,22000.0
+Manisa , Yunusemre , Muradiye Mah.,3,1,130,5,3.0,20000.0
+Manisa , Yunusemre , Mutlu Mah.,3,1,125,16,1.0,25000.0
+Manisa , Yunusemre , Muradiye Mah.,3,1,120,9,3.0,22000.0
+Manisa , Kırkağaç , Şair Eşref Mah.,3,1,138,2,4.0,22000.0
+Manisa , Akhisar , Ragıp Bey Mah.,2,1,90,31,4.0,13000.0
+Manisa , Akhisar , Atatürk Mah.,3,1,140,0,2.0,30000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,95,5,3.0,17500.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,95,11,3.0,15000.0
+Manisa , Yunusemre , Güzelyurt Mah.,3,1,205,11,6.0,45000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,90,8,3.0,21000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,110,4,2.0,30000.0
+Manisa , Yunusemre , Muradiye Mah.,1,1,70,10,2.0,27500.0
+Manisa , Turgutlu , Yıldırım Mah.,3,1,155,15,3.0,20000.0
+Manisa , Yunusemre , Güzelyurt Mah.,2,1,75,31,5.0,20000.0
+Manisa , Salihli , Kurtuluş Mah.,3,1,145,4,5.0,37000.0
+Manisa , Akhisar , Seyit Ahmet Mah.,3,1,130,0,1.0,20000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,95,5,3.0,18000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,70,0,1.0,17500.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,80,0,1.0,15000.0
+Manisa , Yunusemre , 75. Yıl Mah.,3,1,150,14,4.0,47500.0
+Manisa , Akhisar , Reşat Bey Mah.,2,1,105,6,4.0,25000.0
+Manisa , Yunusemre , Güzelyurt Mah.,2,1,139,10,5.0,48000.0
+Manisa , Akhisar , Efendi Mah.,2,1,105,0,-1.0,19500.0
+Manisa , Turgutlu , Selvilitepe Mah.,1,1,52,0,3.0,30000.0
+Manisa , Akhisar , Ragıp Bey Mah.,3,1,130,28,5.0,13500.0
+Manisa , Saruhanlı , Cengiz Topel Mah.,1,1,60,0,1.0,20000.0
+Manisa , Şehzadeler , Şehitler Mah.,3,1,125,26,3.0,22000.0
+Manisa , Turgutlu , Atatürk Mah.,2,1,95,20,2.0,10000.0
+Manisa , Yunusemre , Uncubozköy Mah.,1,1,45,3,1.0,26000.0
+Manisa , Turgutlu , Cumhuriyet Mah.,2,1,100,31,0.0,19500.0
+Manisa , Yunusemre , Muradiye Mah.,1,1,60,3,3.0,14000.0
+Manisa , Akhisar , Reşat Bey Mah.,2,1,92,9,0.0,17000.0
+Manisa , Salihli , Güneş Mah.,2,1,115,25,3.0,15000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,85,6,1.0,25000.0
+Manisa , Akhisar , Cumhuriyet Mah.,1,1,90,0,1.0,15000.0
+Manisa , Akhisar , Atatürk Mah.,2,1,105,5,3.0,21000.0
+Manisa , Yunusemre , Uncubozköy Mah.,1,1,45,2,1.0,26000.0
+Manisa , Turgutlu , Selvilitepe Mah.,1,1,75,4,3.0,2525.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,75,5,2.0,15000.0
+Manisa , Yunusemre , Muradiye Mah.,1,1,60,0,3.0,22000.0
+Manisa , Akhisar , Atatürk Mah.,3,1,135,6,3.0,20000.0
+Manisa , Yunusemre , Merkez Efendi Mah.,2,1,110,21,3.0,24000.0
+Manisa , Yunusemre , Yeni Mahalle Mah.,1,1,60,6,3.0,20000.0
+Manisa , Turgutlu , Ergenekon Mah.,3,1,145,6,1.0,28000.0
+Manisa , Akhisar , Atatürk Mah.,2,1,110,0,3.0,25000.0
+Manisa , Akhisar , Ulu Camii Mah.,1,1,60,2,2.0,20000.0
+Manisa , Turgutlu , Albayrak Mah.,1,1,40,4,3.0,14000.0
+Manisa , Yunusemre , Güzelyurt Mah.,3,1,165,11,2.0,44000.0
+Manisa , Turgutlu , Şehitler Mah.,3,1,140,6,3.0,24500.0
+Manisa , Yunusemre , Muradiye Mah.,1,1,65,6,1.0,20000.0
+Manisa , Alaşehir , İstasyon Mah.,2,1,75,6,2.0,15000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,75,5,3.0,28000.0
+Manisa , Yunusemre , Güzelyurt Mah.,3,1,135,5,0.0,55000.0
+Manisa , Yunusemre , Tevfikiye Mah.,3,1,135,16,2.0,29000.0
+Manisa , Yunusemre , Muradiye Mah.,3,1,130,6,2.0,21000.0
+Manisa , Yunusemre , Yeni Mahalle Mah.,3,1,140,16,2.0,28000.0
+Manisa , Yunusemre , Uncubozköy Mah.,3,1,90,11,1.0,28500.0
+Manisa , Yunusemre , Muradiye Mah.,1,1,60,6,0.0,20500.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,95,6,3.0,17000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,65,0,1.0,18000.0
+Manisa , Akhisar , Reşat Bey Mah.,2,1,95,5,3.0,20500.0
+Manisa , Turgutlu , Subaşı Mah.,4,1,180,6,3.0,30000.0
+Manisa , Salihli , Beşeylül Mah.,2,1,75,3,2.0,16000.0
+Manisa , Yunusemre , Karaali Mah.,1,1,45,6,1.0,16000.0
+Manisa , Yunusemre , Ayni Ali Mah.,3,1,125,20,3.0,18000.0
+Manisa , Yunusemre , Güzelyurt Mah.,3,1,115,6,1.0,35000.0
+Manisa , Turgutlu , Yiğitler Mah.,2,1,90,5,4.0,15000.0
+Manisa , Şehzadeler , Peker Mah.,3,1,120,16,4.0,21000.0
+Manisa , Akhisar , Reşat Bey Mah.,2,1,100,5,2.0,18000.0
+Manisa , Yunusemre , Yeni Mahalle Mah.,2,1,95,7,1.0,24500.0
+Manisa , Yunusemre , Kaynak Mah.,3,1,135,28,3.0,25000.0
+Manisa , Turgutlu , Selvilitepe Mah.,3,1,170,6,1.0,30000.0
+Manisa , Yunusemre , Hafsa Sultan Mah.,2,1,95,21,5.0,20000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,90,0,2.0,18500.0
+Manisa , Yunusemre , Muradiye Mah.,3,1,100,2,2.0,22500.0
+Manisa , Şehzadeler , Peker Mah.,3,1,145,26,5.0,25000.0
+Manisa , Akhisar , Hürriyet Mah.,2,1,105,26,1.0,13500.0
+Manisa , Şehzadeler , Ahmet Bedevi Mah.,2,1,135,23,4.0,19000.0
+Manisa , Akhisar , Kethüda Mah.,3,1,125,21,4.0,14000.0
+Manisa , Yunusemre , Mutlu Mah.,3,1,110,33,6.0,19000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,95,1,1.0,16000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,130,11,4.0,19000.0
+Manisa , Yunusemre , Güzelyurt Mah.,2,1,100,0,3.0,50000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,105,0,2.0,20000.0
+Manisa , Turgutlu , Yiğitler Mah.,2,1,110,20,0.0,12000.0
+Manisa , Turgutlu , Subaşı Mah.,2,1,85,5,1.0,18000.0
+Manisa , Salihli , Mithatpaşa Mah.,2,1,80,6,2.0,22000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,80,0,1.0,22000.0
+Manisa , Yunusemre , Muradiye Mah.,1,1,50,0,2.0,20000.0
+Manisa , Yunusemre , Muradiye Mah.,1,1,65,2,1.0,20000.0
+Manisa , Akhisar , Cumhuriyet Mah.,2,1,110,4,2.0,16500.0
+Manisa , Akhisar , Paşa Mah.,3,1,115,15,1.0,25000.0
+Manisa , Akhisar , Reşat Bey Mah.,4,1,140,31,4.0,16000.0
+Manisa , Yunusemre , Keçili Köy Mah.,3,1,110,1,3.0,25000.0
+Manisa , Salihli , Kırveli Mah.,2,1,100,15,1.0,15000.0
+Manisa , Akhisar , Paşa Mah.,3,1,140,25,2.0,17000.0
+Manisa , Yunusemre , Karaali Mah.,1,1,60,0,2.0,28000.0
+Manisa , Turgutlu , Selvilitepe Mah.,2,1,95,6,3.0,16500.0
+Manisa , Turgutlu , Ergenekon Mah.,1,1,55,0,4.0,18000.0
+Manisa , Yunusemre , Bağyolu Mah.,2,1,100,6,2.0,26000.0
+Manisa , Şehzadeler , Tunca Mah.,2,1,95,11,3.0,23000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,95,0,2.0,20500.0
+Manisa , Yunusemre , Güzelyurt Mah.,3,1,130,22,4.0,32000.0
+Manisa , Akhisar , Atatürk Mah.,3,1,145,21,2.0,17000.0
+Manisa , Turgutlu , Altay Mah.,3,1,130,20,5.0,22000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,90,5,2.0,17000.0
+Manisa , Akhisar , İnönü Mah.,3,1,125,30,3.0,15000.0
+Manisa , Yunusemre , Merkez Efendi Mah.,3,1,135,25,4.0,30000.0
+Manisa , Yunusemre , Tevfikiye Mah.,3,1,125,16,6.0,20000.0
+Manisa , Akhisar , Reşat Bey Mah.,3,1,130,26,2.0,14000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,95,11,3.0,21000.0
+Manisa , Akhisar , Reşat Bey Mah.,3,1,170,5,3.0,21000.0
+Manisa , Yunusemre , Ayni Ali Mah.,2,1,80,5,3.0,27000.0
+Manisa , Yunusemre , Güzelyurt Mah.,2,1,110,10,3.0,30000.0
+Manisa , Turgutlu , Şehitler Mah.,3,1,130,15,3.0,19000.0
+Manisa , Yunusemre , Akgedik Mah.,3,1,145,6,3.0,22500.0
+Manisa , Akhisar , Atatürk Mah.,3,1,150,6,2.0,21000.0
+Manisa , Akhisar , Hürriyet Mah.,3,1,135,9,3.0,19000.0
+Manisa , Saruhanlı , Atatürk Mah.,1,1,60,0,0.0,15000.0
+Manisa , Yunusemre , Muradiye Mah.,1,1,52,0,3.0,24000.0
+Manisa , Yunusemre , 75. Yıl Mah.,3,1,140,11,3.0,25000.0
+Manisa , Saruhanlı , İstasyon Mah.,2,1,100,0,4.0,20000.0
+Manisa , Yunusemre , Muradiye Mah.,3,1,110,5,1.0,25000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,85,3,3.0,33000.0
+Manisa , Saruhanlı , Cengiz Topel Mah.,2,1,116,0,4.0,22500.0
+Manisa , Akhisar , Hürriyet Mah.,2,1,110,15,2.0,17000.0
+Manisa , Yunusemre , Muradiye Mah.,1,1,60,0,3.0,22000.0
+Manisa , Yunusemre , Muradiye Mah.,1,1,65,5,3.0,18000.0
+Manisa , Yunusemre , Muradiye Mah.,3,1,110,11,3.0,20000.0
+Manisa , Turgutlu , Yıldırım Mah.,2,1,100,11,4.0,12000.0
+Manisa , Turgutlu , Altay Mah.,3,1,130,30,3.0,19000.0
+Manisa , Akhisar , Ulu Camii Mah.,2,1,105,6,3.0,15000.0
+Manisa , Yunusemre , Akgedik Mah.,1,1,55,0,2.0,13000.0
+Manisa , Yunusemre , Karaali Mah.,1,1,70,6,2.0,22000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,95,5,1.0,17500.0
+Manisa , Turgutlu , Yedi Eylül Mah.,2,1,95,6,2.0,26000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,85,5,1.0,17000.0
+Manisa , Turgutlu , Şehitler Mah.,3,1,135,15,4.0,19000.0
+Manisa , Demirci , Hacıhamza Mah.,2,1,65,10,0.0,10000.0
+Manisa , Turgutlu , Altay Mah.,3,1,130,30,3.0,17000.0
+Manisa , Akhisar , Hürriyet Mah.,2,1,105,0,3.0,20000.0
+Manisa , Yunusemre , Muradiye Mah.,3,1,115,5,2.0,21000.0
+Manisa , Turgutlu , Mustafa Kemal Mah.,2,1,150,10,0.0,19000.0
+Manisa , Yunusemre , Muradiye Mah.,3,1,125,6,3.0,20000.0
+Manisa , Yunusemre , Muradiye Mah.,1,1,60,0,1.0,15500.0
+Manisa , Yunusemre , Kaynak Mah.,3,1,120,21,4.0,20500.0
+Manisa , Akhisar , Seyit Ahmet Mah.,3,1,140,0,3.0,18500.0
+Manisa , Turgutlu , Şehitler Mah.,3,1,160,14,4.0,26000.0
+Manisa , Akhisar , Kethüda Mah.,3,1,130,6,3.0,17500.0
+Manisa , Salihli , Çakaldoğanlar Mah.,1,1,55,0,-2.0,19000.0
+Manisa , Turgutlu , Ergenekon Mah.,2,1,105,5,3.0,21000.0
+Manisa , Turgutlu , Cumhuriyet Mah.,2,1,100,25,3.0,25000.0
+Manisa , Soma , Onüç Eylül Mah.,3,1,110,6,3.0,16500.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,95,4,3.0,21000.0
+Manisa , Akhisar , Atatürk Mah.,3,1,145,6,3.0,21000.0
+Manisa , Akhisar , Hürriyet Mah.,3,1,175,26,0.0,18000.0
+Manisa , Akhisar , Kethüda Mah.,1,1,55,10,2.0,13000.0
+Manisa , Alaşehir , İstasyon Mah.,3,1,140,21,1.0,18000.0
+Manisa , Turgutlu , Ergenekon Mah.,3,1,135,0,4.0,27000.0
+Manisa , Turgutlu , Irlamaz Mah.,3,1,130,1,3.0,32000.0
+Manisa , Salihli , Kırveli Mah.,3,1,140,25,2.0,15000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,85,21,3.0,14000.0
+Manisa , Yunusemre , Atatürk Mah.,2,1,110,6,0.0,16000.0
+Manisa , Yunusemre , Güzelyurt Mah.,2,1,95,11,5.0,30000.0
+Manisa , Turgutlu , Selvilitepe Mah.,2,1,110,8,3.0,18000.0
+Manisa , Turgutlu , Albayrak Mah.,2,1,85,0,2.0,19000.0
+Manisa , Yunusemre , Keçili Köy Mah.,2,1,100,31,0.0,12000.0
+Manisa , Saruhanlı , Cengiz Topel Mah.,2,1,85,0,3.0,15000.0
+Manisa , Saruhanlı , Cengiz Topel Mah.,3,1,125,0,3.0,17000.0
+Manisa , Akhisar , Hacı İshak Mah.,3,1,135,18,5.0,15000.0
+Manisa , Yunusemre , Akgedik Mah.,3,1,135,5,0.0,25000.0
+Manisa , Turgutlu , Acarlar Mah.,1,1,60,0,2.0,26000.0
+Manisa , Turgutlu , Selvilitepe Mah.,3,1,145,11,6.0,20000.0
+Manisa , Yunusemre , 75. Yıl Mah.,1,1,60,3,3.0,28000.0
+Manisa , Turgutlu , Acarlar Mah.,2,1,100,26,3.0,20000.0
+Manisa , Şehzadeler , Akıncılar Mah.,3,1,115,26,5.0,20000.0
+Manisa , Salihli , Gümüş Mah.,2,1,80,0,1.0,20000.0
+Manisa , Yunusemre , Karaali Mah.,1,1,60,7,1.0,1725.0
+Manisa , Akhisar , Hürriyet Mah.,3,1,140,16,1.0,18000.0
+Manisa , Şehzadeler , Tunca Mah.,3,1,145,11,1.0,30000.0
+Manisa , Akhisar , Hürriyet Mah.,3,1,145,17,3.0,22000.0
+Manisa , Şehzadeler , Mimar Sinan Mah.,2,1,100,26,3.0,27000.0
+Manisa , Alaşehir , Kurtuluş Mah.,1,1,41,0,1.0,18000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,90,1,2.0,20000.0
+Manisa , Saruhanlı , Kurtuluş Mah.,2,1,120,3,1.0,16000.0
+Manisa , Akhisar , Hürriyet Mah.,3,1,140,12,2.0,26000.0
+Manisa , Şehzadeler , Peker Mah.,3,1,125,21,2.0,25000.0
+Manisa , Yunusemre , Yeni Mahalle Mah.,1,1,45,2,1.0,17000.0
+Manisa , Yunusemre , Güzelyurt Mah.,3,1,130,6,2.0,45000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,80,0,2.0,16000.0
+Manisa , Yunusemre , Muradiye Mah.,1,1,50,0,4.0,15000.0
+Manisa , Akhisar , İnönü Mah.,3,1,125,35,2.0,11000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,85,5,5.0,15000.0
+Manisa , Yunusemre , Muradiye Mah.,3,1,135,8,3.0,24000.0
+Manisa , Yunusemre , Yeni Mahalle Mah.,2,1,70,3,3.0,25000.0
+Manisa , Şehzadeler , 1. Anafartalar Mah.,1,1,95,16,4.0,25000.0
+Manisa , Yunusemre , Kuyualan Mah.,2,1,100,1,2.0,27000.0
+Manisa , Şehzadeler , Yarhasanlar Mah.,2,1,110,26,3.0,23000.0
+Manisa , Yunusemre , Akgedik Mah.,2,1,90,6,3.0,20000.0
+Manisa , Akhisar , Reşat Bey Mah.,2,1,95,0,2.0,20000.0
+Manisa , Turgutlu , Selvilitepe Mah.,3,1,120,5,5.0,20000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,85,5,1.0,16000.0
+Manisa , Şehzadeler , Sakarya Mah.,3,1,120,20,4.0,25000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,90,4,1.0,20000.0
+Manisa , Akhisar , Efendi Mah.,2,1,90,0,3.0,20000.0
+Manisa , Akhisar , Reşat Bey Mah.,2,1,95,7,4.0,19000.0
+Manisa , Turgutlu , Yılmazlar Mah.,2,1,100,25,1.0,12500.0
+Manisa , Yunusemre , Muradiye Mah.,1,1,60,1,3.0,15000.0
+Manisa , Turgutlu , Ergenekon Mah.,1,1,65,2,7.0,21000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,90,4,1.0,20000.0
+Manisa , Akhisar , İnönü Mah.,3,1,150,11,2.0,1875.0
+Manisa , Akhisar , Atatürk Mah.,2,1,95,0,2.0,20000.0
+Manisa , Yunusemre , Uncubozköy Mah.,2,1,120,16,2.0,16000.0
+Manisa , Şehzadeler , Yarhasanlar Mah.,2,1,90,26,3.0,22000.0
+Manisa , Yunusemre , Merkez Efendi Mah.,3,1,95,16,3.0,27000.0
+Manisa , Turgutlu , Şehitler Mah.,2,1,100,6,2.0,21000.0
+Manisa , Yunusemre , Muradiye Mah.,1,1,60,0,2.0,24000.0
+Manisa , Akhisar , Reşat Bey Mah.,2,1,80,0,2.0,18000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,95,2,4.0,23000.0
+Manisa , Akhisar , Hürriyet Mah.,3,1,130,30,2.0,16000.0
+Manisa , Yunusemre , Hafsa Sultan Mah.,3,1,150,11,4.0,33000.0
+Manisa , Yunusemre , 50. Yıl Mah.,2,1,105,4,2.0,19000.0
+Manisa , Şehzadeler , Tunca Mah.,2,1,85,31,4.0,23000.0
+Manisa , Yunusemre , Muradiye Mah.,3,1,175,5,2.0,23000.0
+Manisa , Yunusemre , Merkez Efendi Mah.,3,1,110,26,5.0,15000.0
+Manisa , Akhisar , Reşat Bey Mah.,2,1,110,0,4.0,20000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,90,5,3.0,21000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,85,0,1.0,17500.0
+Manisa , Akhisar , Efendi Mah.,2,1,100,0,3.0,16000.0
+Manisa , Turgutlu , Acarlar Mah.,2,1,117,30,5.0,25000.0
+Manisa , Akhisar , Atatürk Mah.,2,1,110,5,1.0,25000.0
+Manisa , Şehzadeler , Dere Mah.,3,1,105,30,3.0,18000.0
+Manisa , Saruhanlı , Cumhuriyet Mah.,2,1,85,0,2.0,18000.0
+Manisa , Şehzadeler , Utku Mah.,1,1,70,0,3.0,30000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,85,5,2.0,17000.0
+Manisa , Akhisar , Efendi Mah.,1,1,70,0,1.0,21500.0
+Manisa , Akhisar , Kethüda Mah.,2,1,120,21,3.0,22000.0
+Manisa , Akhisar , Hürriyet Mah.,3,1,200,0,3.0,25000.0
+Manisa , Akhisar , Efendi Mah.,2,1,110,0,3.0,15000.0
+Manisa , Akhisar , Hürriyet Mah.,3,1,125,26,1.0,17000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,85,0,1.0,18000.0
+Manisa , Akhisar , Reşat Bey Mah.,2,1,100,0,1.0,21000.0
+Manisa , Akhisar , Atatürk Mah.,3,1,130,14,2.0,22000.0
+Manisa , Saruhanlı , Cengiz Topel Mah.,2,1,90,6,3.0,15000.0
+Manisa , Turgutlu , Ergenekon Mah.,1,1,54,0,1.0,18000.0
+Manisa , Yunusemre , Akgedik Mah.,2,1,110,4,3.0,18500.0
+Manisa , Turgutlu , Selvilitepe Mah.,3,1,140,5,1.0,30000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,80,4,1.0,26000.0
+Manisa , Yunusemre , Muradiye Mah.,1,1,55,0,2.0,18000.0
+Manisa , Şehzadeler , Akıncılar Mah.,3,1,138,34,3.0,18500.0
+Manisa , Akhisar , Hürriyet Mah.,2,1,90,1,1.0,20000.0
+Manisa , Yunusemre , Muradiye Mah.,1,1,65,6,0.0,21000.0
+Manisa , Yunusemre , Muradiye Mah.,3,1,135,6,2.0,17000.0
+Manisa , Akhisar , Atatürk Mah.,2,1,105,1,1.0,23000.0
+Manisa , Salihli , Seyrantepe Mah.,2,1,92,6,2.0,21000.0
+Manisa , Yunusemre , Uncubozköy Mah.,1,1,44,2,3.0,34000.0
+Manisa , Yunusemre , Muradiye Mah.,3,1,120,5,2.0,19000.0
+Manisa , Turgutlu , Şehitler Mah.,2,1,115,16,4.0,15000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,100,6,4.0,13000.0
+Manisa , Akhisar , Reşat Bey Mah.,3,1,155,1,1.0,16000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,100,11,3.0,25000.0
+Manisa , Turgutlu , Selvilitepe Osb Mah.,1,1,65,4,8.0,21500.0
+Manisa , Salihli , Beşeylül Mah.,3,1,180,20,4.0,17000.0
+Manisa , Şehzadeler , 1. Anafartalar Mah.,3,1,110,31,2.0,25000.0
+Manisa , Akhisar , Cumhuriyet Mah.,3,1,180,0,3.0,24000.0
+Manisa , Şehzadeler , Dere Mah.,3,1,105,30,4.0,18000.0
+Manisa , Turgutlu , Yedi Eylül Mah.,2,1,130,11,2.0,27500.0
+Manisa , Akhisar , Reşat Bey Mah.,2,1,95,30,2.0,15500.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,85,4,2.0,18000.0
+Manisa , Yunusemre , Barbaros Mah.,2,1,75,30,0.0,12500.0
+Manisa , Akhisar , İnönü Mah.,3,1,150,20,3.0,16000.0
+Manisa , Yunusemre , Muradiye Mah.,1,1,55,0,2.0,22000.0
+Manisa , Yunusemre , Muradiye Mah.,1,1,70,4,4.0,15000.0
+Manisa , Akhisar , Hürriyet Mah.,3,1,135,17,2.0,19000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,75,4,1.0,15500.0
+Manisa , Yunusemre , Lalapaşa Mah.,3,1,125,11,3.0,24000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,90,0,3.0,22500.0
+Manisa , Yunusemre , Muradiye Mah.,1,1,55,0,2.0,17000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,90,2,4.0,22500.0
+Manisa , Akhisar , Reşat Bey Mah.,3,1,120,5,1.0,16000.0
+Manisa , Yunusemre , Muradiye Mah.,1,1,55,4,2.0,16000.0
+Manisa , Yunusemre , Muradiye Mah.,1,1,60,5,1.0,16000.0
+Manisa , Yunusemre , Topçuasım Mah.,3,1,130,11,2.0,24000.0
+Manisa , Turgutlu , Selvilitepe Mah.,1,1,65,4,8.0,16500.0
+Manisa , Turgutlu , Selvilitepe Mah.,1,1,51,5,2.0,23000.0
+Manisa , Akhisar , Atatürk Mah.,3,1,180,0,3.0,27000.0
+Manisa , Akhisar , Efendi Mah.,3,1,125,2,3.0,22000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,85,5,3.0,20000.0
+Manisa , Turgutlu , Yedi Eylül Mah.,3,1,145,5,4.0,20000.0
+Manisa , Akhisar , Atatürk Mah.,2,1,100,0,1.0,20000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,98,0,3.0,20000.0
+Manisa , Yunusemre , Muradiye Mah.,1,1,50,0,1.0,14000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,95,3,2.0,17000.0
+Manisa , Akhisar , Reşat Bey Mah.,2,1,100,0,2.0,20000.0
+Manisa , Şehzadeler , Kuşlubahçe Mah.,3,1,100,35,2.0,14000.0
+Manisa , Saruhanlı , Cengiz Topel Mah.,1,1,50,0,2.0,12000.0
+Manisa , Turgutlu , Subaşı Mah.,2,1,85,5,1.0,20000.0
+Manisa , Akhisar , Reşat Bey Mah.,2,1,85,0,2.0,30000.0
+Manisa , Turgutlu , Cumhuriyet Mah.,3,1,150,26,4.0,18500.0
+Manisa , Akhisar , Reşat Bey Mah.,1,1,40,0,2.0,25000.0
+Manisa , Turgutlu , Cumhuriyet Mah.,3,1,150,35,0.0,22000.0
+Manisa , Akhisar , Hürriyet Mah.,3,1,130,25,1.0,15000.0
+Manisa , Yunusemre , Muradiye Mah.,2,1,90,6,2.0,16000.0
+Manisa , Akhisar , Ragıp Bey Mah.,2,1,95,30,3.0,15000.0
+İzmir , Bornova , Kazımdirik Mah.,1,1,45,6,2.0,32000.0
+İzmir , Bergama , Fatih Mah.,1,1,55,0,3.0,17000.0
+İzmir , Bergama , Atatürk Mah.,1,1,60,4,1.0,19500.0
+İzmir , Seferihisar , Çolak İbrahim Bey Mah.,2,1,95,0,2.0,23000.0
+İzmir , Bergama , Maltepe Mah.,3,1,130,20,2.0,23000.0
+İzmir , Bayraklı , Fuat Edip Baksı Mah.,2,1,85,31,2.0,27000.0
+İzmir , Aliağa , Yeni Mah.,3,1,115,7,2.0,30000.0
+İzmir , Menemen , İnönü Mah.,1,1,65,0,3.0,17000.0
+İzmir , Çiğli , Ataşehir Mah.,2,1,87,1,6.0,42000.0
+İzmir , Tire , Adnan Menderes Mah.,1,1,65,5,6.0,27500.0
+İzmir , Torbalı , Muratbey Mah.,3,1,165,6,4.0,30000.0
+İzmir , Balçova , Eğitim Mah.,3,1,130,33,2.0,25000.0
+İzmir , Kemalpaşa , Ulucak Mustafa Kemal Atatürk Mah.,3,1,135,0,0.0,26500.0
+İzmir , Karşıyaka , Nergiz Mah.,2,1,90,28,1.0,25000.0
+İzmir , Çeşme , Alaçatı Mah.,2,1,100,12,2.0,38500.0
+İzmir , Menemen , 30 Ağustos Mah.,3,1,165,6,6.0,47000.0
+İzmir , Urla , Kuşçular Mah.,1,1,200,2,1.0,32000.0
+İzmir , Karşıyaka , Nergiz Mah.,3,1,108,2,2.0,55000.0
+İzmir , Karşıyaka , Dedebaşı Mah.,2,1,85,36,3.0,35000.0
+İzmir , Karabağlar , Üçkuyular Mah.,3,1,110,31,0.0,27000.0
+İzmir , Karabağlar , Muammer Akar Mah.,3,1,130,31,4.0,36000.0
+İzmir , Tire , Toki Mah.,3,1,120,5,5.0,22000.0
+İzmir , Bornova , Kazımdirik Mah.,1,1,50,3,1.0,30000.0
+İzmir , Konak , Güzelyalı Mah.,4,1,160,31,4.0,35000.0
+İzmir , Karabağlar , Bahar Mah.,2,1,90,12,3.0,25000.0
+İzmir , Karabağlar , Bahar Mah.,3,1,140,23,6.0,30000.0
+İzmir , Karşıyaka , Şemikler Mah.,3,1,140,8,3.0,34000.0
+İzmir , Buca , Yaylacık Mah.,3,1,172,15,3.0,34000.0
+İzmir , Karabağlar , Refet Bele Mah.,2,1,75,6,3.0,18000.0
+İzmir , Konak , Kahramanlar Mah.,1,1,70,5,0.0,23500.0
+İzmir , Bornova , Evka 3 Mah.,3,1,140,22,2.0,50000.0
+İzmir , Menemen , 30 Ağustos Mah.,3,1,120,27,2.0,25000.0
+İzmir , Karabağlar , Basın Sitesi Mah.,3,1,115,10,2.0,28000.0
+İzmir , Bornova , Erzene Mah.,2,1,100,10,1.0,37000.0
+İzmir , Buca , Hürriyet Mah.,1,1,45,2,3.0,21000.0
+İzmir , Balçova , Onur Mah.,3,1,120,30,4.0,33000.0
+İzmir , Bayraklı , Manavkuyu Mah.,3,1,110,35,6.0,28000.0
+İzmir , Karabağlar , Bahar Mah.,2,1,89,30,4.0,25000.0
+İzmir , Buca , Fırat Mah.,3,1,156,21,8.0,44500.0
+İzmir , Buca , Laleli Mah.,2,1,85,8,4.0,25500.0
+İzmir , Buca , Atatürk Mah.,1,1,45,0,2.0,27000.0
+İzmir , Çiğli , Egekent Mah.,3,1,130,31,3.0,25000.0
+İzmir , Karabağlar , Bahçelievler Mah.,2,1,100,30,3.0,24000.0
+İzmir , Bayraklı , Soğukkuyu Mah.,3,1,160,11,7.0,50000.0
+İzmir , Bornova , Kazımdirik Mah.,1,1,35,1,5.0,35000.0
+İzmir , Karabağlar , Esenyalı Mah.,3,1,102,46,6.0,35000.0
+İzmir , Karşıyaka , Goncalar Mah.,1,1,70,0,0.0,28000.0
+İzmir , Çiğli , Ataşehir Mah.,2,1,68,14,0.0,25000.0
+İzmir , Çiğli , Ahmet Taner Kışlalı Mah.,1,1,65,35,2.0,17000.0
+İzmir , Balçova , İnciraltı Mah.,3,1,90,35,0.0,22000.0
+İzmir , Karşıyaka , Örnekköy Mah.,2,1,100,21,5.0,20000.0
+İzmir , Karabağlar , Bahar Mah.,3,1,115,0,2.0,35000.0
+İzmir , Karşıyaka , Nergiz Mah.,2,1,63,12,0.0,25000.0
+İzmir , Karşıyaka , Zübeyde Hanım Mah.,2,1,120,22,1.0,45000.0
+İzmir , Karşıyaka , Aksoy Mah.,2,1,85,35,4.0,27000.0
+İzmir , Konak , Kemal Reis Mah.,2,1,90,30,2.0,20000.0
+İzmir , Karabağlar , Basın Sitesi Mah.,2,1,75,40,3.0,35000.0
+İzmir , Konak , Altıntaş Mah.,3,1,130,31,4.0,30000.0
+İzmir , Karabağlar , Vatan Mah.,3,1,145,30,2.0,28000.0
+İzmir , Aliağa , Atatürk Mah.,3,1,125,26,3.0,26000.0
+İzmir , Torbalı , Torbalı Mah.,3,1,160,6,2.0,25500.0
+İzmir , Buca , Adatepe Mah.,1,1,50,3,0.0,18000.0
+İzmir , Konak , Çankaya Mah.,3,1,110,31,3.0,23000.0
+İzmir , Karabağlar , Tahsin Yazıcı Mah.,3,1,130,35,0.0,25500.0
+İzmir , Buca , Göksu Mah.,2,1,80,8,2.0,20000.0
+İzmir , Karşıyaka , Donanmacı Mah.,3,1,155,35,4.0,33000.0
+İzmir , Çiğli , Küçük Çiğli Mah.,1,1,65,6,7.0,28000.0
+İzmir , Karabağlar , Doğanay Mah.,1,1,50,8,3.0,20000.0
+İzmir , Balçova , Fevzi Çakmak Mah.,3,1,135,30,4.0,30000.0
+İzmir , Karabağlar , Reis Mah.,2,1,110,15,0.0,25000.0
+İzmir , Menemen , Zeytinlik Mah.,2,1,73,0,3.0,20000.0
+İzmir , Karabağlar , Yunus Emre Mah.,3,1,120,0,8.0,40000.0
+İzmir , Bornova , Kazımdirik Mah.,3,1,115,40,3.0,29000.0
+İzmir , Narlıdere , Narlı Mah.,3,1,130,0,1.0,45000.0
+İzmir , Bornova , Erzene Mah.,2,1,110,30,3.0,40000.0
+İzmir , Karabağlar , Muammer Akar Mah.,3,1,130,50,3.0,28000.0
+İzmir , Karabağlar , Doğanay Mah.,2,1,95,0,2.0,30000.0
+İzmir , Çiğli , Küçük Çiğli Mah.,1,1,40,0,0.0,23000.0
+İzmir , Karabağlar , Bahar Mah.,3,1,125,30,5.0,35000.0
+İzmir , Karşıyaka , Nergiz Mah.,3,1,125,22,2.0,25000.0
+İzmir , Balçova , Fevzi Çakmak Mah.,3,1,110,30,2.0,30000.0
+İzmir , Karşıyaka , Dedebaşı Mah.,3,1,110,31,5.0,25000.0
+İzmir , Bayraklı , Mansuroğlu Mah.,2,1,105,30,4.0,35000.0
+İzmir , Çiğli , Balatçık Mah.,1,1,55,0,2.0,22000.0
+İzmir , Karşıyaka , Bostanlı Mah.,2,1,85,2,4.0,55000.0
+İzmir , Konak , Barbaros Mah.,1,1,55,0,2.0,25000.0
+İzmir , Bornova , Kazımdirik Mah.,3,1,140,30,5.0,38000.0
+İzmir , Karabağlar , Refet Bele Mah.,2,1,85,4,2.0,20000.0
+İzmir , Kemalpaşa , Ulucak Cumhuriyet Mah.,2,1,85,1,2.0,27000.0
+İzmir , Bornova , Mevlana Mah.,1,1,60,2,3.0,25000.0
+İzmir , Karabağlar , Çalıkuşu Mah.,3,1,130,20,4.0,30000.0
+İzmir , Kemalpaşa , Mehmet Akif Ersoy Mah.,3,1,130,10,1.0,32000.0
+İzmir , Buca , Adatepe Mah.,1,1,50,3,1.0,19000.0
+İzmir , Menderes , Çukuraltı Mah.,2,1,150,25,3.0,40000.0
+İzmir , Buca , Kozağaç Mah.,1,1,48,13,1.0,19500.0
+İzmir , Buca , Kuruçeşme Mah.,1,1,55,9,3.0,17000.0
+İzmir , Torbalı , Atatürk Mah.,3,1,140,4,2.0,19500.0
+İzmir , Buca , Yaylacık Mah.,1,1,55,5,4.0,17500.0
+İzmir , Buca , Çamlıkule Mah.,1,1,55,0,2.0,15000.0
+İzmir , Konak , Güzelyalı Mah.,3,1,125,31,4.0,29000.0
+İzmir , Buca , Göksu Mah.,3,1,130,16,3.0,30000.0
+İzmir , Karabağlar , Bahçelievler Mah.,2,1,85,35,3.0,15000.0
+İzmir , Buca , Yaylacık Mah.,2,1,85,5,2.0,24500.0
+İzmir , Buca , Efeler Mah.,1,1,55,0,0.0,25000.0
+İzmir , Torbalı , Torbalı Mah.,2,1,130,0,4.0,23000.0
+İzmir , Konak , Mehmet Ali Akman Mah.,3,1,110,35,3.0,35000.0
+İzmir , Karşıyaka , Aksoy Mah.,1,1,45,0,4.0,35000.0
+İzmir , Karşıyaka , Donanmacı Mah.,3,1,105,30,2.0,33500.0
+İzmir , Konak , Güzelyalı Mah.,3,1,140,39,1.0,33000.0
+İzmir , Torbalı , Ertuğrul Mah.,3,1,190,16,2.0,28000.0
+İzmir , Buca , Adatepe Mah.,1,1,50,5,2.0,18500.0
+İzmir , Buca , Kozağaç Mah.,2,1,95,7,4.0,24500.0
+İzmir , Bayraklı , Alpaslan Mah.,2,1,80,16,1.0,15000.0
+İzmir , Bornova , Ümit Mah.,1,1,65,5,2.0,23000.0
+İzmir , Buca , Atatürk Mah.,3,1,125,18,3.0,28000.0
+İzmir , Bayraklı , Mansuroğlu Mah.,2,1,90,35,3.0,21000.0
+İzmir , Buca , Adatepe Mah.,1,1,45,2,3.0,17000.0
+İzmir , Buca , Vali Rahmi Bey Mah.,3,1,120,25,1.0,20000.0
+İzmir , Buca , Dumlupınar Mah.,2,1,100,10,0.0,26000.0
+İzmir , Buca , Mustafa Kemal Mah.,1,1,55,1,0.0,15000.0
+İzmir , Buca , Adatepe Mah.,1,1,50,5,0.0,22000.0
+İzmir , Karşıyaka , İnönü Mah.,1,1,55,11,6.0,26000.0
+İzmir , Karşıyaka , Bostanlı Mah.,4,1,150,36,3.0,55000.0
+İzmir , Seferihisar , Camikebir Mah.,3,1,180,0,0.0,57500.0
+İzmir , Seferihisar , Camikebir Mah.,2,1,86,0,5.0,23000.0
+İzmir , Karşıyaka , Goncalar Mah.,3,1,110,19,3.0,30000.0
+İzmir , Selçuk , Cumhuriyet Mah.,3,1,130,20,3.0,25000.0
+İzmir , Buca , Atatürk Mah.,3,1,130,16,4.0,27000.0
+İzmir , Karabağlar , Bahçelievler Mah.,3,1,110,40,2.0,35000.0
+İzmir , Karşıyaka , Bostanlı Mah.,3,1,95,40,3.0,32000.0
+İzmir , Karşıyaka , Şemikler Mah.,1,1,50,5,4.0,25000.0
+İzmir , Dikili , Gazipaşa Mah.,2,1,120,21,2.0,27000.0
+İzmir , Karşıyaka , Aksoy Mah.,3,1,100,5,3.0,40000.0
+İzmir , Bornova , Evka 4 Mah.,2,1,80,25,3.0,20000.0
+İzmir , Menemen , Zeytinlik Mah.,2,1,110,6,4.0,21000.0
+İzmir , Bornova , Doğanlar Mah.,2,1,82,0,1.0,25000.0
+İzmir , Menemen , 30 Ağustos Mah.,2,1,100,29,3.0,28000.0
+İzmir , Bornova , Kazımdirik Mah.,1,1,55,9,6.0,28000.0
+İzmir , Karşıyaka , Şemikler Mah.,2,1,90,6,2.0,28000.0
+İzmir , Bornova , Kazımdirik Mah.,1,1,55,6,3.0,39000.0
+İzmir , Menemen , Gazi Mustafa Kemal Mah.,1,1,60,3,1.0,20000.0
+İzmir , Karşıyaka , Mustafa Kemal Mah.,3,1,160,15,3.0,42000.0
+İzmir , Bornova , Evka 3 Mah.,2,1,90,20,4.0,26000.0
+İzmir , Torbalı , Pancar Mah.,3,1,155,2,5.0,25000.0
+İzmir , Seferihisar , Camikebir Mah.,2,1,90,6,1.0,28500.0
+İzmir , Bornova , Ergene Mah.,3,1,135,21,4.0,28000.0
+İzmir , Seferihisar , Çolak İbrahim Bey Mah.,2,1,126,0,1.0,30000.0
+İzmir , Bayraklı , Mansuroğlu Mah.,3,1,135,38,4.0,30000.0
+İzmir , Bayraklı , Yamanlar Mah.,3,1,183,14,7.0,40000.0
+İzmir , Bornova , Kazımdirik Mah.,3,1,136,25,4.0,35000.0
+İzmir , Karşıyaka , Şemikler Mah.,2,1,90,6,0.0,28000.0
+İzmir , Karşıyaka , Bostanlı Mah.,3,1,185,35,3.0,52500.0
+İzmir , Selçuk , Cumhuriyet Mah.,2,1,80,15,0.0,27500.0
+İzmir , Bornova , Mevlana Mah.,1,1,70,11,5.0,32000.0
+İzmir , Karşıyaka , Örnekköy Mah.,3,1,155,17,8.0,35000.0
+İzmir , Bornova , Doğanlar Mah.,2,1,85,0,3.0,27000.0
+İzmir , Bayraklı , Osmangazi Mah.,2,1,115,25,1.0,22000.0
+İzmir , Bayraklı , Manavkuyu Mah.,2,1,96,32,1.0,26000.0
+İzmir , Bayraklı , Manavkuyu Mah.,3,1,136,19,6.0,38000.0
+İzmir , Konak , Murat Reis Mah.,1,1,45,0,0.0,22000.0
+İzmir , Buca , Buca Koop. Mah.,3,1,140,25,0.0,25000.0
+İzmir , Bornova , Erzene Mah.,2,1,115,35,1.0,27000.0
+İzmir , Bornova , Kazımdirik Mah.,2,1,70,0,2.0,40000.0
+İzmir , Çiğli , Ataşehir Mah.,1,1,60,5,2.0,30000.0
+İzmir , Karşıyaka , Örnekköy Mah.,1,1,49,1,3.0,21000.0
+İzmir , Çiğli , Balatçık Mah.,1,1,60,3,4.0,22000.0
+İzmir , Buca , Fırat Mah.,2,1,130,3,3.0,30000.0
+İzmir , Bornova , Erzene Mah.,2,1,95,5,0.0,28000.0
+İzmir , Menemen , 9 Eylül Mah.,3,1,150,12,6.0,35000.0
+İzmir , Karşıyaka , Bostanlı Mah.,3,1,130,35,3.0,40000.0
+İzmir , Selçuk , Zafer Mah.,1,1,43,0,3.0,25000.0
+İzmir , Buca , Adatepe Mah.,1,1,80,5,3.0,25000.0
+İzmir , Bayraklı , Mansuroğlu Mah.,3,1,118,42,3.0,30000.0
+İzmir , Menemen , Uğur Mumcu Mah.,3,1,172,0,8.0,32000.0
+İzmir , Menemen , İnönü Mah.,1,1,50,2,3.0,13000.0
+İzmir , Bayraklı , Osmangazi Mah.,3,1,125,25,7.0,24500.0
+İzmir , Çiğli , Balatçık Mah.,1,1,50,1,2.0,19500.0
+İzmir , Torbalı , Pancar Mah.,2,1,88,0,2.0,20000.0
+İzmir , Karşıyaka , Zübeyde Hanım Mah.,2,1,100,17,7.0,23000.0
+İzmir , Torbalı , Pancar Mah.,2,1,80,0,0.0,20000.0
+İzmir , Bornova , Kazımdirik Mah.,3,1,115,30,4.0,25000.0
+İzmir , Çiğli , Balatçık Mah.,1,1,74,2,3.0,21000.0
+İzmir , Karşıyaka , Bostanlı Mah.,1,1,60,2,0.0,38000.0
+İzmir , Karşıyaka , Bostanlı Mah.,3,1,130,50,3.0,45000.0
+İzmir , Buca , Yaylacık Mah.,1,1,50,1,2.0,25000.0
+İzmir , Konak , Akın Simav Mah.,2,1,90,31,1.0,20000.0
+İzmir , Çiğli , Evka - 6 Mah.,3,1,115,21,5.0,22000.0
+İzmir , Narlıdere , Ilıca Mah.,3,1,90,31,0.0,38000.0
+İzmir , Seferihisar , Tepecik Mah.,3,1,145,0,0.0,41000.0
+İzmir , Bayraklı , Osmangazi Mah.,3,1,140,26,2.0,25000.0
+İzmir , Karşıyaka , Bahçelievler Mah.,3,1,125,21,2.0,35000.0
+İzmir , Bayraklı , Fuat Edip Baksı Mah.,3,1,85,32,2.0,22000.0
+İzmir , Bornova , Yeşilova Mah.,3,1,100,25,1.0,23000.0
+İzmir , Bornova , Kazımdirik Mah.,3,1,170,21,5.0,30000.0
+İzmir , Konak , Atilla Mah.,2,1,85,30,4.0,17000.0
+İzmir , Karşıyaka , Bahriye Üçok Mah.,2,1,70,32,4.0,31000.0
+İzmir , Bornova , Erzene Mah.,1,1,45,6,3.0,22000.0
+İzmir , Bornova , Kazımdirik Mah.,1,1,55,4,1.0,30000.0
+İzmir , Çiğli , Yeni Mahalle Mah.,2,1,80,6,6.0,44000.0
+İzmir , Urla , Altıntaş Mah.,1,1,55,6,0.0,35000.0
+İzmir , Torbalı , Pancar Mah.,2,1,80,1,0.0,18000.0
+İzmir , Bornova , Yeşilova Mah.,3,1,132,20,3.0,27000.0
+İzmir , Karşıyaka , Bahariye Mah.,2,1,130,40,3.0,26000.0
+İzmir , Bornova , Erzene Mah.,3,1,115,31,3.0,30000.0
+İzmir , Bornova , İnönü Mah.,1,1,60,5,1.0,23000.0
+İzmir , Konak , Alsancak Mah.,2,1,80,40,5.0,35000.0
+İzmir , Konak , Altıntaş Mah.,2,1,110,21,0.0,20000.0
+İzmir , Karabağlar , Bahçelievler Mah.,2,1,95,28,3.0,28000.0
+İzmir , Menemen , Zeytinlik Mah.,3,1,145,2,2.0,23000.0
+İzmir , Çiğli , Balatçık Mah.,3,1,137,11,3.0,45000.0
+İzmir , Menemen , Mermerli Mah.,3,1,115,40,3.0,25000.0
+İzmir , Karşıyaka , Yalı Mah.,2,1,80,31,5.0,28000.0
+İzmir , Konak , Atilla Mah.,3,1,120,30,0.0,30000.0
+İzmir , Karabağlar , Esenlik Mah.,3,1,115,31,1.0,25000.0
+İzmir , Buca , Atatürk Mah.,1,1,50,11,5.0,20000.0
+İzmir , Karabağlar , Basın Sitesi Mah.,3,1,125,26,4.0,28000.0
+İzmir , Çiğli , Evka - 2 Mah.,3,1,120,31,4.0,25000.0
+İzmir , Bayraklı , Çiçek Mah.,2,1,85,6,2.0,22000.0
+İzmir , Menemen , Kasımpaşa Mah.,4,1,155,30,3.0,25000.0
+İzmir , Karşıyaka , Bostanlı Mah.,2,1,90,31,2.0,39000.0
+İzmir , Konak , Altıntaş Mah.,2,1,85,30,0.0,30000.0
+İzmir , Buca , Atatürk Mah.,1,1,45,5,2.0,18000.0
+İzmir , Buca , Adatepe Mah.,1,1,60,6,3.0,20000.0
+İzmir , Konak , Alsancak Mah.,3,1,95,35,2.0,26000.0
+İzmir , Torbalı , Tepeköy Mah.,2,1,90,4,3.0,21000.0
+İzmir , Karşıyaka , Bostanlı Mah.,2,1,85,5,3.0,45000.0
+İzmir , Menemen , 29 Ekim Mah.,2,1,85,4,0.0,30000.0
+İzmir , Menderes , Görece Cumhuriyet Mah.,2,1,100,6,5.0,25000.0
+İzmir , Çiğli , Şirintepe Mah.,3,1,100,9,0.0,30000.0
+İzmir , Karşıyaka , Nergiz Mah.,2,1,74,0,1.0,35000.0
+İzmir , Karşıyaka , Donanmacı Mah.,3,1,145,39,1.0,40000.0
+İzmir , Bornova , Atatürk Mah.,3,1,120,21,2.0,30000.0
+İzmir , Menderes , Kemalpaşa Mah.,3,1,140,11,3.0,35000.0
+İzmir , Torbalı , İnönü Mah.,3,1,130,2,0.0,33000.0
+İzmir , Karşıyaka , İmbatlı Mah.,2,1,90,0,3.0,28000.0
+İzmir , Menemen , İstiklal Mah.,2,1,126,5,3.0,26000.0
+İzmir , Menemen , 9 Eylül Mah.,3,1,115,4,5.0,38000.0
+İzmir , Karabağlar , Poligon Mah.,3,1,135,31,1.0,36500.0
+İzmir , Seferihisar , Çolak İbrahim Bey Mah.,2,1,100,4,1.0,36000.0
+İzmir , Karşıyaka , Aksoy Mah.,2,1,95,50,4.0,35000.0
+İzmir , Menemen , Atatürk Mah.,3,1,140,6,3.0,29500.0
+İzmir , Çiğli , Balatçık Mah.,1,1,55,0,2.0,28500.0
+İzmir , Buca , Çamlıkule Mah.,1,1,50,1,6.0,16000.0
+İzmir , Menemen , İnönü Mah.,1,1,55,1,2.0,14000.0
+İzmir , Ödemiş , Zafer Mah.,2,1,110,21,3.0,25000.0
+İzmir , Torbalı , Yedi Eylül Mah.,3,1,150,2,3.0,36000.0
+İzmir , Menderes , Cüneytbey Mah.,2,1,70,1,5.0,26500.0
+İzmir , Karabağlar , Yurdoğlu Mah.,2,1,85,30,4.0,20000.0
+İzmir , Karabağlar , Poligon Mah.,3,1,145,16,7.0,45000.0
+İzmir , Çeşme , Reisdere Mah.,2,1,90,0,0.0,45000.0
+İzmir , Buca , Efeler Mah.,1,1,40,0,2.0,19000.0
+İzmir , Buca , Adatepe Mah.,1,1,72,11,-2.0,16000.0
+İzmir , Karşıyaka , Mustafa Kemal Mah.,3,1,165,11,2.0,42000.0
+İzmir , Çiğli , Ataşehir Mah.,3,1,170,15,2.0,45000.0
+İzmir , Seferihisar , Ulamış Mah.,2,1,100,3,0.0,36000.0
+İzmir , Karabağlar , Vatan Mah.,3,1,115,5,2.0,41000.0
+İzmir , Menemen , 30 Ağustos Mah.,3,1,150,11,8.0,31750.0
+İzmir , Seferihisar , Çolak İbrahim Bey Mah.,1,1,120,2,3.0,30000.0
+İzmir , Çiğli , Balatçık Mah.,1,1,60,0,2.0,23000.0
+İzmir , Karabağlar , Sevgi Mah.,2,1,115,11,2.0,28500.0
+İzmir , Karşıyaka , Bahariye Mah.,3,1,135,31,5.0,30000.0
+İzmir , Karşıyaka , Yalı Mah.,2,1,82,0,3.0,45000.0
+İzmir , Buca , Buca Koop. Mah.,2,1,85,18,3.0,18000.0
+İzmir , Menemen , Mermerli Mah.,3,1,130,13,3.0,30000.0
+İzmir , Torbalı , İnönü Mah.,3,1,140,4,5.0,28000.0
+İzmir , Balçova , Korutürk Mah.,3,1,140,30,3.0,55000.0
+İzmir , Karşıyaka , Yalı Mah.,3,1,130,9,5.0,46500.0
+İzmir , Dikili , Gazipaşa Mah.,4,1,180,15,4.0,40000.0
+İzmir , Karşıyaka , Bahçelievler Mah.,3,1,140,33,5.0,28000.0
+İzmir , Bayraklı , Mansuroğlu Mah.,3,1,125,30,5.0,32000.0
+İzmir , Menemen , Yahşelli Mah.,3,1,125,18,3.0,20500.0
+İzmir , Foça , Mustafa Kemal Atatürk Mah.,2,1,80,0,3.0,35000.0
+İzmir , Torbalı , Fevzi Çakmak Mah.,2,1,90,9,2.0,17000.0
+İzmir , Buca , Adatepe Mah.,1,1,55,4,3.0,18500.0
+İzmir , Bayraklı , R. Şevket İnce Mah.,3,1,135,2,1.0,33000.0
+İzmir , Bayraklı , Manavkuyu Mah.,3,1,130,35,4.0,35000.0
+İzmir , Balçova , Korutürk Mah.,2,1,90,30,0.0,35000.0
+İzmir , Bayraklı , R. Şevket İnce Mah.,3,1,127,2,2.0,35000.0
+İzmir , Bornova , Kazımdirik Mah.,1,1,55,0,1.0,45000.0
+İzmir , Balçova , Onur Mah.,3,1,130,35,0.0,25000.0
+İzmir , Karabağlar , Devrim Mah.,3,1,158,5,3.0,36000.0
+İzmir , Aliağa , Siteler Mah.,3,1,138,16,2.0,28000.0
+İzmir , Karşıyaka , Demirköprü Mah.,3,1,120,6,6.0,36000.0
+İzmir , Çiğli , Ataşehir Mah.,2,1,75,4,1.0,34000.0
+İzmir , Karşıyaka , Bahriye Üçok Mah.,3,1,170,31,5.0,45000.0
+İzmir , Buca , Dumlupınar Mah.,3,1,170,11,3.0,27500.0
+İzmir , Karabağlar , Üçkuyular Mah.,4,1,180,35,5.0,52000.0
+İzmir , Kemalpaşa , Soğukpınar Mah.,2,1,120,22,3.0,20000.0
+İzmir , Seferihisar , Payamlı Mah.,3,1,130,15,3.0,33000.0
+İzmir , Bornova , Evka 4 Mah.,2,1,77,27,8.0,21500.0
+İzmir , Ödemiş , Süleyman Demirel Mah.,3,1,190,5,0.0,28000.0
+İzmir , Çiğli , Ataşehir Mah.,3,1,125,26,4.0,25000.0
+İzmir , Karşıyaka , Demirköprü Mah.,2,1,95,8,0.0,33000.0
+İzmir , Buca , Kuruçeşme Mah.,1,1,55,3,2.0,18000.0
+İzmir , Çiğli , Yeni Mahalle Mah.,1,1,45,3,0.0,25000.0
+İzmir , Urla , Gülbahçe Mah.,2,1,70,7,1.0,28000.0
+İzmir , Menemen , Ahıhıdır Mah.,3,1,130,0,5.0,27000.0
+İzmir , Buca , Yaylacık Mah.,1,1,50,4,0.0,20000.0
+İzmir , Bayraklı , Manavkuyu Mah.,2,1,80,21,5.0,40000.0
+İzmir , Menemen , 30 Ağustos Mah.,3,1,145,23,6.0,29000.0
+İzmir , Torbalı , Tepeköy Mah.,3,1,140,22,3.0,20000.0
+İzmir , Karşıyaka , Aksoy Mah.,3,1,110,31,0.0,23000.0
+İzmir , Buca , Fırat Mah.,2,1,85,2,3.0,25000.0
+İzmir , Menemen , 9 Eylül Mah.,3,1,135,6,0.0,37000.0
+İzmir , Çiğli , Ataşehir Mah.,4,1,180,19,3.0,47500.0
+İzmir , Bayraklı , Soğukkuyu Mah.,3,1,144,20,5.0,43000.0
+İzmir , Buca , Adatepe Mah.,2,1,85,16,1.0,20000.0
+İzmir , Karşıyaka , Donanmacı Mah.,2,1,75,26,0.0,29000.0
+İzmir , Karabağlar , Bozyaka Mah.,3,1,130,30,5.0,22000.0
+İzmir , Karabağlar , Maliyeciler Mah.,3,1,125,21,3.0,30000.0
+İzmir , Çiğli , Balatçık Mah.,2,1,105,5,5.0,27500.0
+İzmir , Bornova , Erzene Mah.,2,1,100,40,3.0,30000.0
+İzmir , Karşıyaka , Zübeyde Hanım Mah.,3,1,140,20,4.0,33000.0
+İzmir , Çiğli , Ataşehir Mah.,1,1,80,6,5.0,28000.0
+İzmir , Bornova , Kazımdirik Mah.,3,1,145,31,7.0,45950.0
+İzmir , Karabağlar , Ali Fuat Cebesoy Mah.,3,1,120,6,2.0,40000.0
+İzmir , Menemen , 9 Eylül Mah.,2,1,90,6,3.0,25000.0
+İzmir , Karabağlar , Ali Fuat Cebesoy Mah.,2,1,105,0,6.0,35000.0
+İzmir , Buca , Mustafa Kemal Mah.,2,1,100,20,2.0,20000.0
+İzmir , Seferihisar , Çolak İbrahim Bey Mah.,2,1,122,0,2.0,30000.0
+İzmir , Karabağlar , Arap Hasan Mah.,3,1,120,31,3.0,45000.0
+İzmir , Buca , Yaylacık Mah.,1,1,40,3,3.0,20000.0
+İzmir , Çiğli , Küçük Çiğli Mah.,3,1,125,6,3.0,40000.0
+İzmir , Seferihisar , Çolak İbrahim Bey Mah.,1,1,75,2,1.0,26000.0
+İzmir , Bornova , Erzene Mah.,3,1,140,31,7.0,24000.0
+İzmir , Bornova , Kazımdirik Mah.,2,1,70,5,2.0,48000.0
+İzmir , Bayraklı , Cengizhan Mah.,2,1,80,8,1.0,27000.0
+İzmir , Çeşme , Reisdere Mah.,2,1,85,10,5.0,32000.0
+İzmir , Karabağlar , Doğanay Mah.,2,1,100,36,1.0,24000.0
+İzmir , Torbalı , Yemişlik Mah.,3,1,140,4,1.0,25000.0
+İzmir , Karabağlar , Üçkuyular Mah.,3,1,130,31,1.0,25000.0
+İzmir , Buca , Atatürk Mah.,1,1,55,5,1.0,18000.0
+İzmir , Bayraklı , Manavkuyu Mah.,3,1,127,0,3.0,50000.0
+İzmir , Dikili , İsmetpaşa Mah.,2,1,135,9,0.0,21000.0
+İzmir , Karşıyaka , Yalı Mah.,3,1,190,25,0.0,42000.0
+İzmir , Konak , Mimar Sinan Mah.,3,1,135,40,3.0,40000.0
+İzmir , Karşıyaka , Latife Hanım Mah.,1,1,52,6,1.0,18000.0
+İzmir , Bornova , Evka 3 Mah.,3,1,120,28,1.0,45000.0
+İzmir , Konak , Atilla Mah.,3,1,115,35,5.0,25000.0
+İzmir , Menemen , Cumhuriyet Mah.,2,1,65,1,2.0,22000.0
+İzmir , Torbalı , Muratbey Mah.,3,1,150,0,6.0,36000.0
+İzmir , Menemen , Uğur Mumcu Mah.,2,1,80,1,3.0,22500.0
+İzmir , Karşıyaka , Demirköprü Mah.,1,1,60,2,4.0,24000.0
+İzmir , Bayraklı , Mansuroğlu Mah.,3,1,107,0,5.0,47000.0
+İzmir , Çiğli , İzkent Mah.,3,1,114,29,1.0,23000.0
+İzmir , Buca , Buca Koop. Mah.,2,1,132,26,1.0,26000.0
+İzmir , Konak , Murat Reis Mah.,2,1,80,49,5.0,19000.0
+İzmir , Konak , Çankaya Mah.,2,1,120,35,3.0,30000.0
+İzmir , Bornova , Atatürk Mah.,3,1,180,15,3.0,52000.0
+İzmir , Menemen , İsmet İnönü Mah.,2,1,60,0,1.0,17500.0
+İzmir , Karabağlar , Poligon Mah.,1,1,50,10,1.0,33000.0
+İzmir , Buca , Yaylacık Mah.,1,1,55,5,0.0,17000.0
+İzmir , Karşıyaka , İmbatlı Mah.,1,1,49,4,3.0,29500.0
+İzmir , Seferihisar , Sığacık Mah.,2,1,130,16,0.0,42000.0
+İzmir , Karşıyaka , Şemikler Mah.,2,1,95,6,6.0,40000.0
+İzmir , Buca , Kuruçeşme Mah.,1,1,60,7,1.0,28000.0
+İzmir , Karabağlar , Basın Sitesi Mah.,2,1,90,10,5.0,27000.0
+İzmir , Konak , Kültür Mah.,3,1,140,36,7.0,45000.0
+İzmir , Balçova , Onur Mah.,1,1,45,0,2.0,32000.0
+İzmir , Bornova , Erzene Mah.,2,1,125,26,4.0,34000.0
+İzmir , Karabağlar , Bahçelievler Mah.,3,1,120,42,4.0,24000.0
+İzmir , Karşıyaka , Yalı Mah.,2,1,75,25,0.0,37000.0
+İzmir , Buca , Efeler Mah.,2,1,75,0,5.0,27000.0
+İzmir , Karabağlar , Barış Mah.,3,1,130,35,5.0,23000.0
+İzmir , Karşıyaka , Örnekköy Mah.,2,1,95,6,2.0,32000.0
+İzmir , Gaziemir , Sevgi Mah.,2,1,94,26,5.0,36000.0
+İzmir , Buca , Vali Rahmi Bey Mah.,3,1,130,30,2.0,33000.0
+İzmir , Çiğli , İnönü Mah.,3,1,120,14,3.0,25000.0
+İzmir , Buca , Hürriyet Mah.,3,1,140,28,4.0,27000.0
+İzmir , Buca , Menderes Mah.,2,1,120,23,1.0,30000.0
+İzmir , Bornova , Kazımdirik Mah.,1,1,45,2,7.0,26000.0
+İzmir , Torbalı , Muratbey Mah.,3,1,150,14,3.0,30000.0
+İzmir , Çiğli , Balatçık Mah.,1,1,70,8,7.0,30000.0
+İzmir , Karşıyaka , Zübeyde Hanım Mah.,3,1,150,20,3.0,29000.0
+İzmir , Karaburun , Anbarseki Mah.,2,1,110,5,1.0,27000.0
+İzmir , Narlıdere , Yenikale Mah.,3,1,130,21,3.0,55000.0
+İzmir , Buca , Hürriyet Mah.,2,1,84,3,4.0,25000.0
+İzmir , Bornova , Kazımdirik Mah.,1,1,55,0,2.0,45000.0
+İzmir , Konak , Mehmet Ali Akman Mah.,3,1,130,37,1.0,40000.0
+İzmir , Bornova , Kazımdirik Mah.,2,1,90,10,4.0,48000.0
+İzmir , Konak , Kahramanlar Mah.,1,1,52,2,0.0,30000.0
+İzmir , Urla , Güvendik Mah.,1,1,66,25,5.0,38000.0
+İzmir , Çiğli , Balatçık Mah.,3,1,133,8,3.0,40000.0
+İzmir , Gaziemir , Beyazevler Mah.,2,1,95,1,2.0,45000.0
+İzmir , Buca , Vali Rahmi Bey Mah.,2,1,90,6,0.0,22500.0
+İzmir , Karabağlar , Basın Sitesi Mah.,3,1,120,26,2.0,32000.0
+İzmir , Buca , Atatürk Mah.,1,1,60,4,0.0,20000.0
+İzmir , Karabağlar , Basın Sitesi Mah.,2,1,90,50,3.0,19000.0
+İzmir , Karşıyaka , Örnekköy Mah.,1,1,86,8,1.0,35000.0
+İzmir , Menemen , Gazi Mustafa Kemal Mah.,1,1,60,6,2.0,15000.0
+İzmir , Buca , Kuruçeşme Mah.,1,1,50,6,0.0,22000.0
+İzmir , Bayraklı , Çiçek Mah.,1,1,55,8,0.0,21000.0
+İzmir , Karşıyaka , Bahariye Mah.,2,1,145,31,4.0,30000.0
+İzmir , Torbalı , Yemişlik Mah.,3,1,160,3,1.0,28000.0
+İzmir , Buca , İnkılap Mah.,1,1,40,0,2.0,25000.0
+İzmir , Bayraklı , Cengizhan Mah.,3,1,130,3,2.0,40000.0
+İzmir , Bornova , Evka 4 Mah.,2,1,85,22,5.0,20000.0
+İzmir , Karşıyaka , Yalı Mah.,3,1,155,27,2.0,40000.0
+İzmir , Bornova , Atatürk Mah.,1,1,55,10,0.0,25000.0
+İzmir , Bornova , Doğanlar Mah.,3,1,150,0,5.0,35000.0
+İzmir , Karşıyaka , Şemikler Mah.,1,1,65,6,5.0,30000.0
+İzmir , Narlıdere , Narlı Mah.,3,1,105,14,5.0,36000.0
+İzmir , Balçova , Eğitim Mah.,3,1,110,28,3.0,25000.0
+İzmir , Karşıyaka , Yalı Mah.,2,1,90,16,2.0,35000.0
+İzmir , Bornova , Kazımdirik Mah.,3,1,125,30,3.0,25000.0
+İzmir , Karşıyaka , Şemikler Mah.,2,1,80,10,4.0,32000.0
+İzmir , Menemen , İnönü Mah.,2,1,81,8,2.0,21000.0
+İzmir , Bornova , Mevlana Mah.,1,1,70,5,2.0,27250.0
+İzmir , Bornova , Kazımdirik Mah.,1,1,47,8,2.0,33000.0
+İzmir , Bayraklı , Yamanlar Mah.,3,1,135,4,3.0,30000.0
+İzmir , Karabağlar , Vatan Mah.,2,1,100,7,2.0,32000.0
+İzmir , Konak , Çankaya Mah.,3,1,165,40,2.0,49000.0
+İzmir , Bayraklı , Körfez Mah.,1,1,45,4,1.0,30500.0
+İzmir , Foça , Mustafa Kemal Atatürk Mah.,2,1,75,8,0.0,32500.0
+İzmir , Konak , Alsancak Mah.,2,1,130,31,3.0,25000.0
+İzmir , Bornova , Evka 3 Mah.,3,1,130,30,3.0,36000.0
+İzmir , Konak , Atilla Mah.,2,1,85,6,1.0,30000.0
+İzmir , Urla , Gülbahçe Mah.,1,1,40,1,0.0,28000.0
+İzmir , Karşıyaka , Bahriye Üçok Mah.,3,1,130,33,5.0,38000.0
+İzmir , Karşıyaka , Nergiz Mah.,3,1,135,20,2.0,39000.0
+İzmir , Karabağlar , Üçkuyular Mah.,3,1,125,28,4.0,26000.0
+İzmir , Karabağlar , Basın Sitesi Mah.,1,1,60,6,3.0,29000.0
+İzmir , Bayraklı , Fuat Edip Baksı Mah.,2,1,140,16,3.0,38000.0
+İzmir , Menemen , Atatürk Mah.,1,1,60,2,3.0,22000.0
+İzmir , Karabağlar , Bahar Mah.,2,1,115,16,2.0,24000.0
+İzmir , Karşıyaka , Yalı Mah.,2,1,85,11,2.0,46000.0
+İzmir , Karşıyaka , Yalı Mah.,2,1,85,11,0.0,32000.0
+İzmir , Karşıyaka , Dedebaşı Mah.,3,1,150,35,3.0,30000.0
+İzmir , Buca , Fırat Mah.,2,1,85,5,3.0,25000.0
+İzmir , Buca , Çamlıkule Mah.,2,1,130,6,3.0,25000.0
+İzmir , Karşıyaka , Dedebaşı Mah.,2,1,90,5,3.0,36000.0
+İzmir , Bayraklı , Soğukkuyu Mah.,3,1,130,25,1.0,33000.0
+İzmir , Bayraklı , Muhittin Erener Mah.,2,1,85,17,3.0,14000.0
+İzmir , Bayraklı , R. Şevket İnce Mah.,3,1,128,1,0.0,28000.0
+İzmir , Torbalı , Pancar Mah.,3,1,123,0,3.0,28000.0
+İzmir , Karabağlar , Basın Sitesi Mah.,3,1,135,45,1.0,33000.0
+İzmir , Konak , Güzelyalı Mah.,3,1,100,51,2.0,32000.0
+İzmir , Çiğli , Küçük Çiğli Mah.,1,1,55,5,3.0,23000.0
+İzmir , Bayraklı , Mansuroğlu Mah.,3,1,130,20,3.0,33000.0
+İzmir , Karşıyaka , Demirköprü Mah.,1,1,50,12,0.0,27000.0
+İzmir , Seferihisar , Turabiye Mah.,1,1,45,3,0.0,18000.0
+İzmir , Torbalı , Yemişlik Mah.,3,1,145,7,5.0,25000.0
+İzmir , Gaziemir , Atıfbey Mah.,3,1,135,23,4.0,28000.0
+İzmir , Karşıyaka , Donanmacı Mah.,2,1,110,40,1.0,32000.0
+İzmir , Bayraklı , Tepekule Mah.,2,1,90,23,5.0,25000.0
+İzmir , Bayraklı , Manavkuyu Mah.,3,1,126,26,5.0,35000.0
+İzmir , Selçuk , Atatürk Mah.,2,1,80,20,3.0,33000.0
+İzmir , Torbalı , Tepeköy Mah.,2,1,90,21,3.0,20000.0
+İzmir , Karşıyaka , İmbatlı Mah.,2,1,85,2,1.0,35000.0
+İzmir , Buca , Dumlupınar Mah.,3,1,140,11,4.0,35000.0
+İzmir , Torbalı , Atatürk Mah.,2,1,95,0,1.0,20000.0
+İzmir , Ödemiş , Süleyman Demirel Mah.,3,1,145,16,4.0,21500.0
+İzmir , Buca , Yaylacık Mah.,1,1,65,12,3.0,20000.0
+İzmir , Torbalı , İnönü Mah.,2,1,100,0,0.0,26000.0
+İzmir , Menemen , Uğur Mumcu Mah.,2,1,100,0,2.0,25000.0
+İzmir , Karşıyaka , Bostanlı Mah.,2,1,100,35,5.0,28000.0
+İzmir , Karabağlar , Esenlik Mah.,2,1,105,36,1.0,23000.0
+İzmir , Karşıyaka , Alaybey Mah.,2,1,85,31,2.0,23000.0
+İzmir , Karşıyaka , Dedebaşı Mah.,2,1,85,10,4.0,30000.0
+İzmir , Buca , Akıncılar Mah.,2,1,90,0,0.0,25000.0
+İzmir , Buca , Menderes Mah.,2,1,100,6,3.0,23750.0
+İzmir , Bornova , Rafet Paşa Mah.,2,1,96,16,2.0,21000.0
+İzmir , Karşıyaka , Bahariye Mah.,3,1,125,35,5.0,40000.0
+İzmir , Karabağlar , Vatan Mah.,3,1,105,26,2.0,35000.0
+İzmir , Karabağlar , Vatan Mah.,3,1,130,35,4.0,30000.0
+İzmir , Torbalı , Fevzi Çakmak Mah.,2,1,110,6,0.0,20000.0
+İzmir , Balçova , Teleferik Mah.,3,1,100,30,5.0,39000.0
+İzmir , Buca , Dumlupınar Mah.,2,1,90,31,2.0,28000.0
+İzmir , Karabağlar , Bozyaka Mah.,3,1,120,3,4.0,29000.0
+İzmir , Menemen , 29 Ekim Mah.,3,1,128,0,4.0,30000.0
+İzmir , Foça , Yenibağarası Mah.,2,1,90,3,1.0,25000.0
+İzmir , Kemalpaşa , Armutlu 85. Yıl Cumhuriyet Mah.,2,1,85,6,2.0,23000.0
+İzmir , Menemen , Cumhuriyet Mah.,2,1,86,1,2.0,22000.0
+İzmir , Karşıyaka , Nergiz Mah.,3,1,100,31,1.0,35000.0
+İzmir , Balçova , Korutürk Mah.,1,1,55,26,0.0,30000.0
+İzmir , Torbalı , Tepeköy Mah.,1,1,60,0,2.0,24500.0
+İzmir , Menemen , 30 Ağustos Mah.,2,1,80,0,4.0,28500.0
+İzmir , Balçova , Onur Mah.,3,1,120,21,3.0,33000.0
+İzmir , Balçova , Korutürk Mah.,2,1,110,11,2.0,39000.0
+İzmir , Karabağlar , Devrim Mah.,2,1,130,15,1.0,18000.0
+İzmir , Buca , Efeler Mah.,3,1,130,20,3.0,30000.0
+İzmir , Konak , Atilla Mah.,2,1,110,30,4.0,25000.0
+İzmir , Konak , Göztepe Mah.,2,1,90,31,3.0,32000.0
+İzmir , Menemen , Mermerli Mah.,3,1,130,6,1.0,25000.0
+İzmir , Torbalı , Muratbey Mah.,1,1,60,0,3.0,25000.0
+İzmir , Bayraklı , Fuat Edip Baksı Mah.,3,1,160,16,2.0,35000.0
+İzmir , Çiğli , Evka-5 Mah.,3,1,140,15,6.0,27500.0
+İzmir , Konak , Çankaya Mah.,3,1,120,31,2.0,25000.0
+İzmir , Güzelbahçe , Maltepe Mah.,2,1,95,31,1.0,45000.0
+İzmir , Balçova , Onur Mah.,2,1,110,35,2.0,35000.0
+İzmir , Foça , Fevzi Çakmak Mah.,2,1,75,1,3.0,30000.0
+İzmir , Karşıyaka , Alaybey Mah.,2,1,90,40,3.0,25000.0
+İzmir , Karşıyaka , Dedebaşı Mah.,3,1,130,28,3.0,26000.0
+İzmir , Buca , Menderes Mah.,2,1,44,0,2.0,19000.0
+İzmir , Karşıyaka , Yalı Mah.,2,1,75,2,7.0,39000.0
+İzmir , Karşıyaka , Yalı Mah.,3,1,102,0,0.0,45000.0
+İzmir , Menemen , 29 Ekim Mah.,3,1,153,4,2.0,40000.0
+İzmir , Konak , Murat Reis Mah.,3,1,140,31,4.0,40000.0
+İzmir , Karabağlar , Sevgi Mah.,3,1,110,25,0.0,16000.0
+İzmir , Foça , Mustafa Kemal Atatürk Mah.,1,1,60,10,3.0,25000.0
+İzmir , Çiğli , Yakakent Mah.,3,1,159,11,5.0,30000.0
+İzmir , Bornova , Evka 4 Mah.,3,1,98,28,3.0,25000.0
+İzmir , Menemen , İsmet İnönü Mah.,3,1,120,16,3.0,18000.0
+İzmir , Karşıyaka , Tuna Mah.,1,1,50,0,4.0,35000.0
+İzmir , Karabağlar , Metin Oktay Mah.,2,1,90,19,1.0,25000.0
+İzmir , Tire , Hürriyet Mah.,3,1,130,26,1.0,20000.0
+İzmir , Menemen , Kasımpaşa Mah.,2,1,85,25,2.0,19000.0
+İzmir , Karabağlar , Muammer Akar Mah.,3,1,134,26,1.0,21000.0
+İzmir , Çiğli , Balatçık Mah.,1,1,50,4,3.0,19500.0
+İzmir , Karabağlar , Basın Sitesi Mah.,2,1,100,28,5.0,32000.0
+İzmir , Karabağlar , Bahçelievler Mah.,2,1,90,10,2.0,33000.0
+İzmir , Bornova , Kızılay Mah.,2,1,95,31,3.0,17000.0
+İzmir , Urla , Gülbahçe Mah.,1,1,45,2,0.0,27000.0
+İzmir , Buca , Efeler Mah.,3,1,105,38,2.0,29500.0
+İzmir , Karşıyaka , Yalı Mah.,1,1,55,6,3.0,40000.0
+İzmir , Balçova , Fevzi Çakmak Mah.,3,1,135,30,3.0,40000.0
+İzmir , Bornova , Kazımdirik Mah.,1,1,60,1,7.0,35000.0
+İzmir , Karabağlar , Refet Bele Mah.,1,1,100,6,0.0,20000.0
+İzmir , Karşıyaka , Demirköprü Mah.,3,1,120,6,4.0,38000.0
+İzmir , Bornova , Mevlana Mah.,1,1,70,6,5.0,32000.0
+İzmir , Bornova , Erzene Mah.,1,1,50,2,2.0,25000.0
+İzmir , Menemen , Gazi Mustafa Kemal Mah.,1,1,50,0,3.0,15000.0
+İzmir , Buca , Yenigün Mah.,3,1,130,25,3.0,23000.0
+İzmir , Karşıyaka , Tersane Mah.,3,1,95,31,2.0,27500.0
+İzmir , Bornova , Doğanlar Mah.,1,1,50,6,3.0,27000.0
+İzmir , Buca , Kuruçeşme Mah.,2,1,70,5,0.0,20000.0
+İzmir , Tire , İbni Melek Mah.,3,1,110,2,0.0,26000.0
+İzmir , Bornova , Erzene Mah.,1,1,80,22,0.0,28000.0
+İzmir , Konak , Kahramanlar Mah.,1,1,55,1,3.0,26000.0
+İzmir , Torbalı , Yemişlik Mah.,3,1,145,7,5.0,25000.0
+İzmir , Karşıyaka , Bahriye Üçok Mah.,3,1,125,29,4.0,28000.0
+İzmir , Menemen , 85. Yıl Cumhuriyet Mah.,1,1,53,1,5.0,14000.0
+İzmir , Buca , Adatepe Mah.,2,1,105,15,3.0,23000.0
+İzmir , Buca , Atatürk Mah.,3,1,85,8,2.0,25000.0
+İzmir , Karabağlar , Bahar Mah.,3,1,125,30,3.0,25000.0
+İzmir , Karşıyaka , Dedebaşı Mah.,1,1,45,10,0.0,23000.0
+İzmir , Çiğli , Şirintepe Mah.,2,1,90,5,2.0,25000.0
+İzmir , Konak , Murat Reis Mah.,2,1,105,31,1.0,27500.0
+İzmir , Konak , Mithatpaşa Mah.,3,1,125,45,4.0,40000.0
+İzmir , Karşıyaka , Yalı Mah.,1,1,60,16,3.0,35000.0
+İzmir , Çiğli , Balatçık Mah.,3,1,125,11,3.0,26000.0
+İzmir , Çiğli , Egekent Mah.,3,1,120,16,6.0,26000.0
+İzmir , Karabağlar , Vatan Mah.,3,1,120,16,3.0,23000.0
+İzmir , Bayraklı , Bayraklı Mah.,2,1,100,31,6.0,35000.0
+İzmir , Karşıyaka , Tersane Mah.,2,1,100,31,3.0,25000.0
+İzmir , Karabağlar , Refet Bele Mah.,3,1,115,11,0.0,25000.0
+İzmir , Çiğli , Küçük Çiğli Mah.,3,1,140,21,5.0,20000.0
+İzmir , Buca , Atatürk Mah.,3,1,130,17,0.0,33000.0
+İzmir , Konak , Barbaros Mah.,3,1,135,34,3.0,26500.0
+İzmir , Menemen , 9 Eylül Mah.,3,1,160,6,6.0,40000.0
+İzmir , Karşıyaka , Bahçelievler Mah.,3,1,120,31,5.0,39000.0
+İzmir , Konak , Alsancak Mah.,2,1,105,26,2.0,45000.0
+İzmir , Karabağlar , Basın Sitesi Mah.,3,1,140,31,4.0,34000.0
+İzmir , Buca , Adatepe Mah.,1,1,50,4,3.0,25000.0
+İzmir , Seferihisar , Camikebir Mah.,1,1,50,0,1.0,18000.0
+İzmir , Torbalı , Fevzi Çakmak Mah.,2,1,85,0,0.0,23000.0
+İzmir , Karşıyaka , Aksoy Mah.,3,1,130,26,1.0,37500.0
+İzmir , Narlıdere , Ilıca Mah.,2,1,100,31,3.0,32000.0
+İzmir , Karabağlar , Bozyaka Mah.,2,1,110,6,0.0,27000.0
+İzmir , Menemen , Zeytinlik Mah.,1,1,63,0,4.0,16000.0
+İzmir , Karşıyaka , Donanmacı Mah.,3,1,115,31,5.0,20000.0
+İzmir , Buca , Kozağaç Mah.,2,1,110,20,2.0,24000.0
+İzmir , Bayraklı , Osmangazi Mah.,3,1,180,20,2.0,40000.0
+İzmir , Konak , Mimar Sinan Mah.,2,1,85,26,5.0,27000.0
+İzmir , Çiğli , Ataşehir Mah.,3,1,120,26,3.0,30000.0
+İzmir , Bornova , Kazımdirik Mah.,1,1,74,1,0.0,47500.0
+İzmir , Menemen , Uğur Mumcu Mah.,2,1,100,6,3.0,24000.0
+İzmir , Aliağa , Şakran Sayfiye Mah.,4,1,140,6,1.0,36000.0
+İzmir , Menderes , Gümüldür Fevzi Çakmak Mah.,3,1,170,15,1.0,30000.0
+İzmir , Buca , Adatepe Mah.,2,1,44,5,3.0,24000.0
+İzmir , Karşıyaka , Bahariye Mah.,3,1,110,35,1.0,29000.0
+İzmir , Karabağlar , Bahçelievler Mah.,3,1,110,50,4.0,22000.0
+İzmir , Balçova , Eğitim Mah.,3,1,110,15,0.0,25000.0
+İzmir , Menemen , 29 Ekim Mah.,3,1,120,24,7.0,19000.0
+İzmir , Karşıyaka , Donanmacı Mah.,3,1,170,21,2.0,32000.0
+İzmir , Karabağlar , Bozyaka Mah.,1,1,80,20,0.0,10000.0
+İzmir , Kemalpaşa , Mehmet Akif Ersoy Mah.,2,1,95,0,1.0,27000.0
+İzmir , Menemen , 85. Yıl Cumhuriyet Mah.,1,1,55,0,3.0,16000.0
+İzmir , Buca , Atatürk Mah.,1,1,45,6,0.0,16000.0
+İzmir , Bayraklı , Org. Nafiz Gürman Mah.,1,1,70,30,1.0,9000.0
+İzmir , Menemen , 29 Ekim Mah.,3,1,153,4,2.0,40000.0
+İzmir , Çiğli , Yeni Mahalle Mah.,2,1,90,4,0.0,25000.0
+İzmir , Konak , Kılıç Reis Mah.,2,1,115,25,4.0,28000.0
+İzmir , Karabağlar , Esenyalı Mah.,3,1,125,31,3.0,35000.0
+İzmir , Buca , Adatepe Mah.,1,1,45,11,2.0,17500.0
+İzmir , Menemen , Kasımpaşa Mah.,3,1,120,11,2.0,27500.0
+İzmir , Gaziemir , Gazi Mah.,2,1,110,10,4.0,30000.0
+İzmir , Çiğli , Balatçık Mah.,3,1,125,11,4.0,35000.0
+İzmir , Bornova , Kazımdirik Mah.,3,1,90,26,3.0,28000.0
+İzmir , Bornova , Mevlana Mah.,1,1,60,5,4.0,22000.0
+İzmir , Menemen , İnönü Mah.,1,1,64,8,0.0,16000.0
+İzmir , Buca , Adatepe Mah.,1,1,60,6,0.0,20000.0
+İzmir , Menemen , İsmet İnönü Mah.,2,1,85,5,0.0,23000.0
+İzmir , Karabağlar , Üçkuyular Mah.,3,1,115,26,2.0,37000.0
+İzmir , Bornova , Kazımdirik Mah.,1,1,60,1,4.0,35000.0
+İzmir , Karabağlar , Bozyaka Mah.,2,1,65,6,0.0,18000.0
+İzmir , Buca , Kozağaç Mah.,1,1,69,10,1.0,17500.0
+İzmir , Bornova , Mevlana Mah.,1,1,70,11,5.0,32000.0
+İzmir , Buca , Efeler Mah.,3,1,120,29,2.0,25000.0
+İzmir , Karşıyaka , Goncalar Mah.,3,1,110,31,0.0,28000.0
+İzmir , Torbalı , Alpkent Mah.,3,1,140,10,3.0,28000.0
+İzmir , Bayraklı , Soğukkuyu Mah.,3,1,120,10,2.0,35000.0
+İzmir , Menemen , İnönü Mah.,1,1,45,6,3.0,16000.0
+İzmir , Karşıyaka , Cumhuriyet Mah.,3,1,125,6,2.0,50000.0
+İzmir , Karşıyaka , Aksoy Mah.,2,1,105,35,4.0,35000.0
+İzmir , Menemen , 30 Ağustos Mah.,3,1,145,23,5.0,32000.0
+İzmir , Foça , Mustafa Kemal Atatürk Mah.,1,1,55,0,3.0,20000.0
+İzmir , Gaziemir , Emrez Mah.,3,1,95,35,3.0,23500.0
+İzmir , Bornova , Erzene Mah.,2,1,110,20,3.0,24000.0
+İzmir , Karşıyaka , Bahçelievler Mah.,3,1,120,45,0.0,30000.0
+İzmir , Menemen , Gazi Mustafa Kemal Mah.,1,1,58,0,0.0,19500.0
+İzmir , Bayraklı , Emek Mah.,3,1,130,25,3.0,27000.0
+İzmir , Karabağlar , Metin Oktay Mah.,2,1,100,10,2.0,25000.0
+İzmir , Karabağlar , Bahar Mah.,2,1,115,35,2.0,24000.0
+İzmir , Karabağlar , Vatan Mah.,2,1,110,2,2.0,25000.0
+İzmir , Buca , Yaylacık Mah.,2,1,85,6,3.0,22000.0
+İzmir , Karşıyaka , Bahçelievler Mah.,3,1,145,31,2.0,28000.0
+İzmir , Konak , Zeytinlik Mah.,2,1,115,30,3.0,18000.0
+İzmir , Bayraklı , Adalet Mah.,3,1,165,21,1.0,35000.0
+İzmir , Karşıyaka , Cumhuriyet Mah.,2,1,100,6,2.0,36500.0
+İzmir , Karabağlar , Vatan Mah.,3,1,130,31,4.0,30000.0
+İzmir , Seferihisar , Çolak İbrahim Bey Mah.,2,1,80,0,2.0,32000.0
+İzmir , Konak , Güzelyalı Mah.,3,1,125,31,4.0,40000.0
+İzmir , Urla , İskele Mah.,2,1,90,6,3.0,45000.0
+İzmir , Karşıyaka , Bahriye Üçok Mah.,2,1,85,1,3.0,45000.0
+İzmir , Bornova , Yeşilova Mah.,3,1,110,26,1.0,23000.0
+İzmir , Balçova , Onur Mah.,2,1,105,31,3.0,37500.0
+İzmir , Karşıyaka , Yalı Mah.,3,1,120,25,3.0,32000.0
+İzmir , Karşıyaka , Aksoy Mah.,2,1,100,21,5.0,27500.0
+İzmir , Çiğli , Evka - 2 Mah.,3,1,120,21,3.0,24000.0
+İzmir , Karşıyaka , Bahariye Mah.,3,1,105,35,3.0,22000.0
+İzmir , Torbalı , Torbalı Mah.,3,1,145,16,5.0,14500.0
+İzmir , Karabağlar , Üçkuyular Mah.,3,1,125,35,3.0,30000.0
+İzmir , Menemen , İnönü Mah.,1,1,55,6,2.0,16000.0
+İzmir , Konak , Güneşli Mah.,2,1,75,44,8.0,22000.0
+İzmir , Karabağlar , Üçkuyular Mah.,2,1,94,34,6.0,34000.0
+İzmir , Karşıyaka , Bahçelievler Mah.,3,1,155,30,4.0,25000.0
+İzmir , Karşıyaka , Şemikler Mah.,2,1,95,6,3.0,31000.0
+İzmir , Menemen , 29 Ekim Mah.,3,1,153,4,2.0,40000.0
+İzmir , Buca , Buca Koop. Mah.,3,1,110,25,3.0,30000.0
+İzmir , Buca , Fırat Mah.,2,1,95,20,3.0,18500.0
+İzmir , Buca , Yaylacık Mah.,1,1,50,6,2.0,22000.0
+İzmir , Konak , Alsancak Mah.,2,1,90,50,2.0,25000.0
+İzmir , Buca , Akıncılar Mah.,2,1,90,0,0.0,25000.0
+İzmir , Buca , Adatepe Mah.,1,1,50,6,2.0,20000.0
+İzmir , Bornova , Evka 4 Mah.,2,1,80,16,1.0,23000.0
+İzmir , Karşıyaka , Bahriye Üçok Mah.,2,1,100,38,0.0,27000.0
+İzmir , Balçova , Çetin Emeç Mah.,2,1,90,25,0.0,25000.0
+İzmir , Karabağlar , Metin Oktay Mah.,2,1,85,0,0.0,28000.0
+İzmir , Çiğli , Ataşehir Mah.,2,1,89,0,5.0,40000.0
+İzmir , Karabağlar , Esenyalı Mah.,3,1,110,40,4.0,28000.0
+İzmir , Seferihisar , Hıdırlık Mah.,3,1,130,6,0.0,28000.0
+İzmir , Menemen , Zeytinlik Mah.,2,1,72,0,1.0,20000.0
+İzmir , Konak , İsmet Kaptan Mah.,1,1,65,31,2.0,31000.0
+İzmir , Bornova , Erzene Mah.,3,1,150,31,4.0,35000.0
+İzmir , Karabağlar , Reis Mah.,3,1,125,31,4.0,25000.0
+İzmir , Bornova , Evka 4 Mah.,2,1,66,26,2.0,18000.0
+İzmir , Buca , Kuruçeşme Mah.,1,1,45,8,3.0,17000.0
+İzmir , Menemen , Esatpaşa Mah.,2,1,80,0,2.0,25000.0
+İzmir , Bornova , Erzene Mah.,3,1,135,39,5.0,35500.0
+İzmir , Kemalpaşa , Atatürk Mah.,2,1,75,30,1.0,15000.0
+İzmir , Karşıyaka , Nergiz Mah.,1,1,36,0,0.0,35000.0
+İzmir , Bornova , Kazımdirik Mah.,1,1,57,4,5.0,30000.0
+İzmir , Güzelbahçe , Yelki Mah.,3,1,125,5,3.0,46500.0
+İzmir , Buca , Yaylacık Mah.,1,1,50,6,0.0,18000.0
+İzmir , Bornova , Kazımdirik Mah.,2,1,100,35,4.0,30000.0
+İzmir , Çiğli , Balatçık Mah.,2,1,60,8,3.0,29000.0
+İzmir , Buca , Vali Rahmi Bey Mah.,1,1,55,5,2.0,22000.0
+İzmir , Buca , Adatepe Mah.,1,1,60,6,0.0,17500.0
+İzmir , Karşıyaka , Şemikler Mah.,1,1,50,6,2.0,26500.0
+İzmir , Buca , Efeler Mah.,2,1,120,31,3.0,35000.0
+İzmir , Konak , Mimar Sinan Mah.,3,1,110,31,2.0,47000.0
+İzmir , Bayraklı , Tepekule Mah.,3,1,140,21,7.0,28000.0
+İzmir , Seferihisar , Camikebir Mah.,2,1,95,6,1.0,32000.0
+İzmir , Karşıyaka , Dedebaşı Mah.,3,1,140,31,7.0,30000.0
+İzmir , Konak , Mimar Sinan Mah.,1,1,65,26,6.0,35000.0
+İzmir , Bornova , Erzene Mah.,3,1,110,30,3.0,30000.0
+İzmir , Aliağa , Şakran Sayfiye Mah.,3,1,130,16,0.0,42000.0
+İzmir , Karabağlar , Cennetoğlu Mah.,3,1,115,36,2.0,22000.0
+İzmir , Narlıdere , Yenikale Mah.,3,1,115,21,0.0,37500.0
+İzmir , Menemen , İnönü Mah.,1,1,50,6,2.0,15000.0
+İzmir , Karşıyaka , Yalı Mah.,3,1,120,25,4.0,35000.0
+İzmir , Karşıyaka , İmbatlı Mah.,2,1,80,10,5.0,22500.0
+İzmir , Buca , Hürriyet Mah.,2,1,84,4,4.0,25000.0
+İzmir , Karabağlar , Bahçelievler Mah.,2,1,100,26,3.0,23000.0
+İzmir , Bornova , İnönü Mah.,2,1,120,25,2.0,22000.0
+İzmir , Çiğli , İzkent Mah.,3,1,100,30,5.0,20000.0
+İzmir , Narlıdere , Yenikale Mah.,2,1,100,11,2.0,48000.0
+İzmir , Bornova , İnönü Mah.,3,1,140,20,3.0,20000.0
+İzmir , Konak , Kılıç Reis Mah.,1,1,40,6,0.0,16000.0
+İzmir , Urla , Güvendik Mah.,1,1,66,26,3.0,38000.0
+İzmir , Konak , Kahramanlar Mah.,2,1,80,10,3.0,30000.0
+İzmir , Buca , Göksu Mah.,1,1,50,0,0.0,16000.0
+İzmir , Menemen , İstiklal Mah.,2,1,115,2,2.0,31000.0
+İzmir , Çiğli , Balatçık Mah.,3,1,135,10,5.0,35000.0
+İzmir , Konak , Mehmet Ali Akman Mah.,3,1,125,31,3.0,36000.0
+İzmir , Balçova , Fevzi Çakmak Mah.,3,1,130,30,3.0,35000.0
+İzmir , Karabağlar , Basın Sitesi Mah.,2,1,110,31,2.0,30000.0
+İzmir , Urla , Yaka Mah.,2,1,95,4,1.0,45000.0
+İzmir , Menemen , 9 Eylül Mah.,2,1,110,6,7.0,35000.0
+İzmir , Bornova , Kazımdirik Mah.,1,1,57,4,7.0,30000.0
+İzmir , Bornova , Evka 3 Mah.,2,1,90,21,2.0,25000.0
+İzmir , Karşıyaka , Dedebaşı Mah.,2,1,90,13,4.0,30000.0
+İzmir , Buca , Kuruçeşme Mah.,1,1,60,7,0.0,20000.0
+İzmir , Karşıyaka , Şemikler Mah.,2,1,90,8,1.0,36000.0
+İzmir , Karabağlar , Reis Mah.,3,1,150,26,2.0,30000.0
+İzmir , Gaziemir , Atıfbey Mah.,4,1,180,11,1.0,55000.0
+İzmir , Menderes , Kemalpaşa Mah.,3,1,135,4,3.0,30000.0
+İzmir , Menemen , İnönü Mah.,1,1,58,6,1.0,15000.0
+İzmir , Menderes , Çukuraltı Mah.,2,1,160,21,0.0,25000.0
+İzmir , Bergama , Fatih Mah.,2,1,90,3,0.0,25000.0
+İzmir , Buca , Atatürk Mah.,1,1,50,5,1.0,19500.0
+İzmir , Menemen , Gazi Mah.,3,1,190,6,5.0,29000.0
+İzmir , Bornova , Kazımdirik Mah.,1,1,57,6,3.0,41000.0
+İzmir , Torbalı , Torbalı Mah.,1,1,45,0,5.0,23500.0
+İzmir , Buca , İzkent Mah.,2,1,59,0,2.0,25000.0
+İzmir , Menderes , Çukuraltı Mah.,4,1,170,15,1.0,36000.0
+İzmir , Karşıyaka , Şemikler Mah.,2,1,95,6,3.0,35000.0
+İzmir , Menderes , Cüneytbey Mah.,3,1,125,11,2.0,30000.0
+İzmir , Aliağa , Şakran Sayfiye Mah.,3,1,130,21,0.0,21000.0
+İzmir , Karabağlar , Vatan Mah.,3,1,130,36,3.0,25000.0
+İzmir , Karabağlar , General Kazım Özalp Mah.,3,1,115,6,3.0,37500.0
+İzmir , Torbalı , Cumhuriyet Mah.,3,1,170,5,5.0,35000.0
+İzmir , Konak , Murat Reis Mah.,3,1,145,45,4.0,32000.0
+İzmir , Bornova , Kazımdirik Mah.,2,1,95,32,1.0,30000.0
+İzmir , Buca , Yaylacık Mah.,2,1,90,5,-2.0,20000.0
+İzmir , Narlıdere , Yenikale Mah.,3,1,150,26,5.0,50000.0
+İzmir , Karabağlar , Esentepe Mah.,3,1,138,26,7.0,40000.0
+İzmir , Menemen , 30 Ağustos Mah.,3,1,120,20,2.0,25000.0
+İzmir , Karşıyaka , İmbatlı Mah.,3,1,135,0,5.0,42000.0
